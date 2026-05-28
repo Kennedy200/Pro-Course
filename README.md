@@ -227,8 +227,7 @@ Full API documentation available at `http://localhost:8000/docs`
 
 ## Built By
 
-**Benjamin Effiong (Forkhive)**
-CEO & Developer — ForkHive Limited
+**Kennedy Gabriel (StoneHeart)**
 
 ---
 

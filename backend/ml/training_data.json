@@ -1,0 +1,4802 @@
+[
+  {
+    "time_spent": 2175,
+    "access_count": 8,
+    "score": 28.931264015247947,
+    "engagement_score": 100,
+    "avg_time_per_access": 271.875,
+    "learning_state": "struggling"
+  },
+  {
+    "time_spent": 639,
+    "access_count": 2,
+    "score": 79.44100931715452,
+    "engagement_score": 30.65,
+    "avg_time_per_access": 319.5,
+    "learning_state": "proficient"
+  },
+  {
+    "time_spent": 1578,
+    "access_count": 4,
+    "score": 54.86673698046592,
+    "engagement_score": 66.3,
+    "avg_time_per_access": 394.5,
+    "learning_state": "needs_practice"
+  },
+  {
+    "time_spent": 3335,
+    "access_count": 7,
+    "score": 30.76369537507019,
+    "engagement_score": 100,
+    "avg_time_per_access": 476.42857142857144,
+    "learning_state": "struggling"
+  },
+  {
+    "time_spent": 1838,
+    "access_count": 3,
+    "score": 18.39998752387566,
+    "engagement_score": 60.63333333333333,
+    "avg_time_per_access": 612.6666666666666,
+    "learning_state": "struggling"
+  },
+  {
+    "time_spent": 420,
+    "access_count": 1,
+    "score": 75.68144256259123,
+    "engagement_score": 17.0,
+    "avg_time_per_access": 420.0,
+    "learning_state": "proficient"
+  },
+  {
+    "time_spent": 1704,
+    "access_count": 7,
+    "score": 0.7525070082495033,
+    "engagement_score": 98.4,
+    "avg_time_per_access": 243.42857142857142,
+    "learning_state": "struggling"
+  },
+  {
+    "time_spent": 1645,
+    "access_count": 6,
+    "score": 25.767528873287628,
+    "engagement_score": 87.41666666666667,
+    "avg_time_per_access": 274.1666666666667,
+    "learning_state": "struggling"
+  },
+  {
+    "time_spent": 2203,
+    "access_count": 3,
+    "score": 37.11365935822612,
+    "engagement_score": 66.71666666666667,
+    "avg_time_per_access": 734.3333333333334,
+    "learning_state": "struggling"
+  },
+  {
+    "time_spent": 3283,
+    "access_count": 7,
+    "score": 41.69778811553307,
+    "engagement_score": 100,
+    "avg_time_per_access": 469.0,
+    "learning_state": "struggling"
+  },
+  {
+    "time_spent": 1819,
+    "access_count": 6,
+    "score": 45.79383215430298,
+    "engagement_score": 90.31666666666666,
+    "avg_time_per_access": 303.1666666666667,
+    "learning_state": "struggling"
+  },
+  {
+    "time_spent": 576,
+    "access_count": 2,
+    "score": 90.32610096437303,
+    "engagement_score": 29.6,
+    "avg_time_per_access": 288.0,
+    "learning_state": "proficient"
+  },
+  {
+    "time_spent": 3312,
+    "access_count": 6,
+    "score": 49.77139567351148,
+    "engagement_score": 100,
+    "avg_time_per_access": 552.0,
+    "learning_state": "struggling"
+  },
+  {
+    "time_spent": 578,
+    "access_count": 2,
+    "score": 93.37600688306964,
+    "engagement_score": 29.633333333333333,
+    "avg_time_per_access": 289.0,
+    "learning_state": "proficient"
+  },
+  {
+    "time_spent": 1260,
+    "access_count": 3,
+    "score": 58.474766913377316,
+    "engagement_score": 51.0,
+    "avg_time_per_access": 420.0,
+    "learning_state": "needs_practice"
+  },
+  {
+    "time_spent": 1557,
+    "access_count": 5,
+    "score": 63.25201447517884,
+    "engagement_score": 75.95,
+    "avg_time_per_access": 311.4,
+    "learning_state": "needs_practice"
+  },
+  {
+    "time_spent": 2444,
+    "access_count": 3,
+    "score": 6.8429365101387525,
+    "engagement_score": 70.73333333333333,
+    "avg_time_per_access": 814.6666666666666,
+    "learning_state": "struggling"
+  },
+  {
+    "time_spent": 2992,
+    "access_count": 8,
+    "score": 6.3055581707985535,
+    "engagement_score": 100,
+    "avg_time_per_access": 374.0,
+    "learning_state": "struggling"
+  },
+  {
+    "time_spent": 1373,
+    "access_count": 4,
+    "score": 61.972328318380875,
+    "engagement_score": 62.88333333333333,
+    "avg_time_per_access": 343.25,
+    "learning_state": "needs_practice"
+  },
+  {
+    "time_spent": 623,
+    "access_count": 1,
+    "score": 96.75968124000104,
+    "engagement_score": 20.383333333333333,
+    "avg_time_per_access": 623.0,
+    "learning_state": "proficient"
+  },
+  {
+    "time_spent": 3124,
+    "access_count": 6,
+    "score": 26.263238652719643,
+    "engagement_score": 100,
+    "avg_time_per_access": 520.6666666666666,
+    "learning_state": "struggling"
+  },
+  {
+    "time_spent": 715,
+    "access_count": 1,
+    "score": 81.93800470384596,
+    "engagement_score": 21.916666666666664,
+    "avg_time_per_access": 715.0,
+    "learning_state": "proficient"
+  },
+  {
+    "time_spent": 749,
+    "access_count": 3,
+    "score": 78.62715866046996,
+    "engagement_score": 42.483333333333334,
+    "avg_time_per_access": 249.66666666666666,
+    "learning_state": "proficient"
+  },
+  {
+    "time_spent": 1421,
+    "access_count": 6,
+    "score": 38.10088660953358,
+    "engagement_score": 83.68333333333334,
+    "avg_time_per_access": 236.83333333333334,
+    "learning_state": "struggling"
+  },
+  {
+    "time_spent": 1748,
+    "access_count": 4,
+    "score": 70.58739935755523,
+    "engagement_score": 69.13333333333333,
+    "avg_time_per_access": 437.0,
+    "learning_state": "needs_practice"
+  },
+  {
+    "time_spent": 343,
+    "access_count": 1,
+    "score": 75.11310963712226,
+    "engagement_score": 15.716666666666667,
+    "avg_time_per_access": 343.0,
+    "learning_state": "proficient"
+  },
+  {
+    "time_spent": 1295,
+    "access_count": 8,
+    "score": 23.764286190592788,
+    "engagement_score": 100,
+    "avg_time_per_access": 161.875,
+    "learning_state": "struggling"
+  },
+  {
+    "time_spent": 1445,
+    "access_count": 3,
+    "score": 12.002514029005118,
+    "engagement_score": 54.08333333333333,
+    "avg_time_per_access": 481.6666666666667,
+    "learning_state": "struggling"
+  },
+  {
+    "time_spent": 1639,
+    "access_count": 3,
+    "score": 24.8347489513269,
+    "engagement_score": 57.31666666666666,
+    "avg_time_per_access": 546.3333333333334,
+    "learning_state": "struggling"
+  },
+  {
+    "time_spent": 1283,
+    "access_count": 4,
+    "score": 28.93950984967002,
+    "engagement_score": 61.38333333333333,
+    "avg_time_per_access": 320.75,
+    "learning_state": "struggling"
+  },
+  {
+    "time_spent": 2670,
+    "access_count": 4,
+    "score": 2.838554926519965,
+    "engagement_score": 84.5,
+    "avg_time_per_access": 667.5,
+    "learning_state": "struggling"
+  },
+  {
+    "time_spent": 1625,
+    "access_count": 5,
+    "score": 57.90906678573098,
+    "engagement_score": 77.08333333333333,
+    "avg_time_per_access": 325.0,
+    "learning_state": "needs_practice"
+  },
+  {
+    "time_spent": 1554,
+    "access_count": 6,
+    "score": 10.38429354627346,
+    "engagement_score": 85.9,
+    "avg_time_per_access": 259.0,
+    "learning_state": "struggling"
+  },
+  {
+    "time_spent": 3594,
+    "access_count": 6,
+    "score": 29.54797699409347,
+    "engagement_score": 100,
+    "avg_time_per_access": 599.0,
+    "learning_state": "struggling"
+  },
+  {
+    "time_spent": 3163,
+    "access_count": 3,
+    "score": 20.308611798196765,
+    "engagement_score": 82.71666666666667,
+    "avg_time_per_access": 1054.3333333333333,
+    "learning_state": "struggling"
+  },
+  {
+    "time_spent": 1156,
+    "access_count": 3,
+    "score": 55.00926580245702,
+    "engagement_score": 49.266666666666666,
+    "avg_time_per_access": 385.3333333333333,
+    "learning_state": "needs_practice"
+  },
+  {
+    "time_spent": 3561,
+    "access_count": 8,
+    "score": 39.64103354553787,
+    "engagement_score": 100,
+    "avg_time_per_access": 445.125,
+    "learning_state": "struggling"
+  },
+  {
+    "time_spent": 1427,
+    "access_count": 5,
+    "score": 49.76460972072548,
+    "engagement_score": 73.78333333333333,
+    "avg_time_per_access": 285.4,
+    "learning_state": "struggling"
+  },
+  {
+    "time_spent": 1317,
+    "access_count": 5,
+    "score": 42.91433358616189,
+    "engagement_score": 71.95,
+    "avg_time_per_access": 263.4,
+    "learning_state": "struggling"
+  },
+  {
+    "time_spent": 1526,
+    "access_count": 6,
+    "score": 32.009051871109214,
+    "engagement_score": 85.43333333333334,
+    "avg_time_per_access": 254.33333333333334,
+    "learning_state": "struggling"
+  },
+  {
+    "time_spent": 2978,
+    "access_count": 3,
+    "score": 29.82992531828952,
+    "engagement_score": 79.63333333333333,
+    "avg_time_per_access": 992.6666666666666,
+    "learning_state": "struggling"
+  },
+  {
+    "time_spent": 2529,
+    "access_count": 4,
+    "score": 48.59136672735481,
+    "engagement_score": 82.15,
+    "avg_time_per_access": 632.25,
+    "learning_state": "struggling"
+  },
+  {
+    "time_spent": 3544,
+    "access_count": 7,
+    "score": 24.65302936076522,
+    "engagement_score": 100,
+    "avg_time_per_access": 506.2857142857143,
+    "learning_state": "struggling"
+  },
+  {
+    "time_spent": 1329,
+    "access_count": 3,
+    "score": 64.58972417808516,
+    "engagement_score": 52.15,
+    "avg_time_per_access": 443.0,
+    "learning_state": "needs_practice"
+  },
+  {
+    "time_spent": 547,
+    "access_count": 2,
+    "score": 91.64986052720072,
+    "engagement_score": 29.116666666666667,
+    "avg_time_per_access": 273.5,
+    "learning_state": "proficient"
+  },
+  {
+    "time_spent": 1831,
+    "access_count": 8,
+    "score": 1.8362419800128094,
+    "engagement_score": 100,
+    "avg_time_per_access": 228.875,
+    "learning_state": "struggling"
+  },
+  {
+    "time_spent": 1743,
+    "access_count": 4,
+    "score": 40.31714205335143,
+    "engagement_score": 69.05,
+    "avg_time_per_access": 435.75,
+    "learning_state": "struggling"
+  },
+  {
+    "time_spent": 848,
+    "access_count": 4,
+    "score": 62.5623760076832,
+    "engagement_score": 54.13333333333333,
+    "avg_time_per_access": 212.0,
+    "learning_state": "needs_practice"
+  },
+  {
+    "time_spent": 1619,
+    "access_count": 5,
+    "score": 67.49576563253966,
+    "engagement_score": 76.98333333333333,
+    "avg_time_per_access": 323.8,
+    "learning_state": "needs_practice"
+  },
+  {
+    "time_spent": 1226,
+    "access_count": 5,
+    "score": 52.49108363786006,
+    "engagement_score": 70.43333333333334,
+    "avg_time_per_access": 245.2,
+    "learning_state": "needs_practice"
+  },
+  {
+    "time_spent": 857,
+    "access_count": 2,
+    "score": 95.19659654876118,
+    "engagement_score": 34.28333333333333,
+    "avg_time_per_access": 428.5,
+    "learning_state": "proficient"
+  },
+  {
+    "time_spent": 348,
+    "access_count": 1,
+    "score": 82.62376027784006,
+    "engagement_score": 15.8,
+    "avg_time_per_access": 348.0,
+    "learning_state": "proficient"
+  },
+  {
+    "time_spent": 687,
+    "access_count": 2,
+    "score": 81.41214823017555,
+    "engagement_score": 31.45,
+    "avg_time_per_access": 343.5,
+    "learning_state": "proficient"
+  },
+  {
+    "time_spent": 754,
+    "access_count": 2,
+    "score": 79.78751252557683,
+    "engagement_score": 32.56666666666666,
+    "avg_time_per_access": 377.0,
+    "learning_state": "proficient"
+  },
+  {
+    "time_spent": 2380,
+    "access_count": 8,
+    "score": 16.21623969043465,
+    "engagement_score": 100,
+    "avg_time_per_access": 297.5,
+    "learning_state": "struggling"
+  },
+  {
+    "time_spent": 2936,
+    "access_count": 8,
+    "score": 6.686874601354864,
+    "engagement_score": 100,
+    "avg_time_per_access": 367.0,
+    "learning_state": "struggling"
+  },
+  {
+    "time_spent": 2643,
+    "access_count": 5,
+    "score": 16.043362147093088,
+    "engagement_score": 94.05,
+    "avg_time_per_access": 528.6,
+    "learning_state": "struggling"
+  },
+  {
+    "time_spent": 1171,
+    "access_count": 5,
+    "score": 74.56012217426425,
+    "engagement_score": 69.51666666666667,
+    "avg_time_per_access": 234.2,
+    "learning_state": "needs_practice"
+  },
+  {
+    "time_spent": 1332,
+    "access_count": 4,
+    "score": 57.09906313707474,
+    "engagement_score": 62.2,
+    "avg_time_per_access": 333.0,
+    "learning_state": "needs_practice"
+  },
+  {
+    "time_spent": 590,
+    "access_count": 1,
+    "score": 89.4206211650869,
+    "engagement_score": 19.833333333333336,
+    "avg_time_per_access": 590.0,
+    "learning_state": "proficient"
+  },
+  {
+    "time_spent": 1611,
+    "access_count": 3,
+    "score": 11.968832113666606,
+    "engagement_score": 56.85,
+    "avg_time_per_access": 537.0,
+    "learning_state": "struggling"
+  },
+  {
+    "time_spent": 1774,
+    "access_count": 5,
+    "score": 22.874579796320205,
+    "engagement_score": 79.56666666666666,
+    "avg_time_per_access": 354.8,
+    "learning_state": "struggling"
+  },
+  {
+    "time_spent": 2008,
+    "access_count": 7,
+    "score": 37.696762689052846,
+    "engagement_score": 100,
+    "avg_time_per_access": 286.85714285714283,
+    "learning_state": "struggling"
+  },
+  {
+    "time_spent": 376,
+    "access_count": 2,
+    "score": 87.4785828304544,
+    "engagement_score": 26.266666666666666,
+    "avg_time_per_access": 188.0,
+    "learning_state": "proficient"
+  },
+  {
+    "time_spent": 420,
+    "access_count": 2,
+    "score": 79.64606330154372,
+    "engagement_score": 27.0,
+    "avg_time_per_access": 210.0,
+    "learning_state": "proficient"
+  },
+  {
+    "time_spent": 796,
+    "access_count": 2,
+    "score": 83.55668178596983,
+    "engagement_score": 33.266666666666666,
+    "avg_time_per_access": 398.0,
+    "learning_state": "proficient"
+  },
+  {
+    "time_spent": 624,
+    "access_count": 4,
+    "score": 57.74903556801755,
+    "engagement_score": 50.4,
+    "avg_time_per_access": 156.0,
+    "learning_state": "needs_practice"
+  },
+  {
+    "time_spent": 1734,
+    "access_count": 2,
+    "score": 55.059241579688425,
+    "engagement_score": 48.9,
+    "avg_time_per_access": 867.0,
+    "learning_state": "needs_practice"
+  },
+  {
+    "time_spent": 2130,
+    "access_count": 5,
+    "score": 40.09839255388338,
+    "engagement_score": 85.5,
+    "avg_time_per_access": 426.0,
+    "learning_state": "struggling"
+  },
+  {
+    "time_spent": 514,
+    "access_count": 3,
+    "score": 89.72185338594058,
+    "engagement_score": 38.56666666666666,
+    "avg_time_per_access": 171.33333333333334,
+    "learning_state": "proficient"
+  },
+  {
+    "time_spent": 319,
+    "access_count": 2,
+    "score": 81.0043241693416,
+    "engagement_score": 25.316666666666666,
+    "avg_time_per_access": 159.5,
+    "learning_state": "proficient"
+  },
+  {
+    "time_spent": 3518,
+    "access_count": 5,
+    "score": 39.244039874485246,
+    "engagement_score": 100,
+    "avg_time_per_access": 703.6,
+    "learning_state": "struggling"
+  },
+  {
+    "time_spent": 815,
+    "access_count": 3,
+    "score": 94.40780722762983,
+    "engagement_score": 43.583333333333336,
+    "avg_time_per_access": 271.6666666666667,
+    "learning_state": "proficient"
+  },
+  {
+    "time_spent": 2089,
+    "access_count": 8,
+    "score": 13.47037551160727,
+    "engagement_score": 100,
+    "avg_time_per_access": 261.125,
+    "learning_state": "struggling"
+  },
+  {
+    "time_spent": 2680,
+    "access_count": 8,
+    "score": 42.38338816882331,
+    "engagement_score": 100,
+    "avg_time_per_access": 335.0,
+    "learning_state": "struggling"
+  },
+  {
+    "time_spent": 415,
+    "access_count": 2,
+    "score": 92.46086306659453,
+    "engagement_score": 26.916666666666668,
+    "avg_time_per_access": 207.5,
+    "learning_state": "proficient"
+  },
+  {
+    "time_spent": 757,
+    "access_count": 3,
+    "score": 86.80842187799824,
+    "engagement_score": 42.61666666666667,
+    "avg_time_per_access": 252.33333333333334,
+    "learning_state": "proficient"
+  },
+  {
+    "time_spent": 1646,
+    "access_count": 5,
+    "score": 47.68646579592881,
+    "engagement_score": 77.43333333333334,
+    "avg_time_per_access": 329.2,
+    "learning_state": "struggling"
+  },
+  {
+    "time_spent": 2528,
+    "access_count": 5,
+    "score": 43.097228865613836,
+    "engagement_score": 92.13333333333333,
+    "avg_time_per_access": 505.6,
+    "learning_state": "struggling"
+  },
+  {
+    "time_spent": 1251,
+    "access_count": 2,
+    "score": 54.46852239753497,
+    "engagement_score": 40.85,
+    "avg_time_per_access": 625.5,
+    "learning_state": "needs_practice"
+  },
+  {
+    "time_spent": 1114,
+    "access_count": 3,
+    "score": 74.417986853544,
+    "engagement_score": 48.56666666666666,
+    "avg_time_per_access": 371.3333333333333,
+    "learning_state": "needs_practice"
+  },
+  {
+    "time_spent": 1224,
+    "access_count": 4,
+    "score": 55.99489568420576,
+    "engagement_score": 60.4,
+    "avg_time_per_access": 306.0,
+    "learning_state": "needs_practice"
+  },
+  {
+    "time_spent": 1952,
+    "access_count": 6,
+    "score": 2.974226701474514,
+    "engagement_score": 92.53333333333333,
+    "avg_time_per_access": 325.3333333333333,
+    "learning_state": "struggling"
+  },
+  {
+    "time_spent": 2268,
+    "access_count": 6,
+    "score": 16.659259894533175,
+    "engagement_score": 97.8,
+    "avg_time_per_access": 378.0,
+    "learning_state": "struggling"
+  },
+  {
+    "time_spent": 1418,
+    "access_count": 7,
+    "score": 26.105748769752722,
+    "engagement_score": 93.63333333333333,
+    "avg_time_per_access": 202.57142857142858,
+    "learning_state": "struggling"
+  },
+  {
+    "time_spent": 1576,
+    "access_count": 8,
+    "score": 11.120358892366411,
+    "engagement_score": 100,
+    "avg_time_per_access": 197.0,
+    "learning_state": "struggling"
+  },
+  {
+    "time_spent": 1801,
+    "access_count": 5,
+    "score": 38.85983902713809,
+    "engagement_score": 80.01666666666667,
+    "avg_time_per_access": 360.2,
+    "learning_state": "struggling"
+  },
+  {
+    "time_spent": 2361,
+    "access_count": 6,
+    "score": 7.2996690340837445,
+    "engagement_score": 99.35,
+    "avg_time_per_access": 393.5,
+    "learning_state": "struggling"
+  },
+  {
+    "time_spent": 3544,
+    "access_count": 7,
+    "score": 37.2249833164863,
+    "engagement_score": 100,
+    "avg_time_per_access": 506.2857142857143,
+    "learning_state": "struggling"
+  },
+  {
+    "time_spent": 1434,
+    "access_count": 7,
+    "score": 46.46100630383724,
+    "engagement_score": 93.9,
+    "avg_time_per_access": 204.85714285714286,
+    "learning_state": "struggling"
+  },
+  {
+    "time_spent": 2933,
+    "access_count": 8,
+    "score": 23.77468339068336,
+    "engagement_score": 100,
+    "avg_time_per_access": 366.625,
+    "learning_state": "struggling"
+  },
+  {
+    "time_spent": 2140,
+    "access_count": 5,
+    "score": 32.05374464073172,
+    "engagement_score": 85.66666666666666,
+    "avg_time_per_access": 428.0,
+    "learning_state": "struggling"
+  },
+  {
+    "time_spent": 1135,
+    "access_count": 5,
+    "score": 52.34912303193416,
+    "engagement_score": 68.91666666666667,
+    "avg_time_per_access": 227.0,
+    "learning_state": "needs_practice"
+  },
+  {
+    "time_spent": 1879,
+    "access_count": 7,
+    "score": 45.18820830046678,
+    "engagement_score": 100,
+    "avg_time_per_access": 268.42857142857144,
+    "learning_state": "struggling"
+  },
+  {
+    "time_spent": 2528,
+    "access_count": 7,
+    "score": 12.251556734015601,
+    "engagement_score": 100,
+    "avg_time_per_access": 361.14285714285717,
+    "learning_state": "struggling"
+  },
+  {
+    "time_spent": 2253,
+    "access_count": 7,
+    "score": 2.5344506041023784,
+    "engagement_score": 100,
+    "avg_time_per_access": 321.85714285714283,
+    "learning_state": "struggling"
+  },
+  {
+    "time_spent": 697,
+    "access_count": 1,
+    "score": 80.28902738725601,
+    "engagement_score": 21.616666666666667,
+    "avg_time_per_access": 697.0,
+    "learning_state": "proficient"
+  },
+  {
+    "time_spent": 1178,
+    "access_count": 3,
+    "score": 67.54361994457723,
+    "engagement_score": 49.63333333333333,
+    "avg_time_per_access": 392.6666666666667,
+    "learning_state": "needs_practice"
+  },
+  {
+    "time_spent": 1649,
+    "access_count": 5,
+    "score": 50.881171277551395,
+    "engagement_score": 77.48333333333333,
+    "avg_time_per_access": 329.8,
+    "learning_state": "needs_practice"
+  },
+  {
+    "time_spent": 2964,
+    "access_count": 8,
+    "score": 17.809197723301317,
+    "engagement_score": 100,
+    "avg_time_per_access": 370.5,
+    "learning_state": "struggling"
+  },
+  {
+    "time_spent": 1599,
+    "access_count": 2,
+    "score": 62.76880762230969,
+    "engagement_score": 46.65,
+    "avg_time_per_access": 799.5,
+    "learning_state": "needs_practice"
+  },
+  {
+    "time_spent": 2777,
+    "access_count": 5,
+    "score": 15.198184820291715,
+    "engagement_score": 96.28333333333333,
+    "avg_time_per_access": 555.4,
+    "learning_state": "struggling"
+  },
+  {
+    "time_spent": 1757,
+    "access_count": 2,
+    "score": 58.9888983635857,
+    "engagement_score": 49.28333333333333,
+    "avg_time_per_access": 878.5,
+    "learning_state": "needs_practice"
+  },
+  {
+    "time_spent": 486,
+    "access_count": 3,
+    "score": 98.1414034213447,
+    "engagement_score": 38.1,
+    "avg_time_per_access": 162.0,
+    "learning_state": "proficient"
+  },
+  {
+    "time_spent": 1511,
+    "access_count": 3,
+    "score": 37.47888015383101,
+    "engagement_score": 55.18333333333334,
+    "avg_time_per_access": 503.6666666666667,
+    "learning_state": "struggling"
+  },
+  {
+    "time_spent": 686,
+    "access_count": 1,
+    "score": 78.77373717166776,
+    "engagement_score": 21.433333333333334,
+    "avg_time_per_access": 686.0,
+    "learning_state": "proficient"
+  },
+  {
+    "time_spent": 1107,
+    "access_count": 3,
+    "score": 74.0929569346718,
+    "engagement_score": 48.45,
+    "avg_time_per_access": 369.0,
+    "learning_state": "needs_practice"
+  },
+  {
+    "time_spent": 767,
+    "access_count": 5,
+    "score": 67.4455655369112,
+    "engagement_score": 62.78333333333333,
+    "avg_time_per_access": 153.4,
+    "learning_state": "needs_practice"
+  },
+  {
+    "time_spent": 1634,
+    "access_count": 3,
+    "score": 48.93580158424228,
+    "engagement_score": 57.233333333333334,
+    "avg_time_per_access": 544.6666666666666,
+    "learning_state": "struggling"
+  },
+  {
+    "time_spent": 3018,
+    "access_count": 8,
+    "score": 43.05794527180621,
+    "engagement_score": 100,
+    "avg_time_per_access": 377.25,
+    "learning_state": "struggling"
+  },
+  {
+    "time_spent": 303,
+    "access_count": 2,
+    "score": 91.1362139409738,
+    "engagement_score": 25.05,
+    "avg_time_per_access": 151.5,
+    "learning_state": "proficient"
+  },
+  {
+    "time_spent": 3040,
+    "access_count": 8,
+    "score": 22.708187164436744,
+    "engagement_score": 100,
+    "avg_time_per_access": 380.0,
+    "learning_state": "struggling"
+  },
+  {
+    "time_spent": 1306,
+    "access_count": 8,
+    "score": 38.17290189404707,
+    "engagement_score": 100,
+    "avg_time_per_access": 163.25,
+    "learning_state": "struggling"
+  },
+  {
+    "time_spent": 1300,
+    "access_count": 7,
+    "score": 10.193780322861922,
+    "engagement_score": 91.66666666666667,
+    "avg_time_per_access": 185.71428571428572,
+    "learning_state": "struggling"
+  },
+  {
+    "time_spent": 3473,
+    "access_count": 8,
+    "score": 10.977929476311655,
+    "engagement_score": 100,
+    "avg_time_per_access": 434.125,
+    "learning_state": "struggling"
+  },
+  {
+    "time_spent": 2755,
+    "access_count": 6,
+    "score": 49.956086971541716,
+    "engagement_score": 100,
+    "avg_time_per_access": 459.1666666666667,
+    "learning_state": "struggling"
+  },
+  {
+    "time_spent": 2197,
+    "access_count": 7,
+    "score": 46.21623201848042,
+    "engagement_score": 100,
+    "avg_time_per_access": 313.85714285714283,
+    "learning_state": "struggling"
+  },
+  {
+    "time_spent": 742,
+    "access_count": 2,
+    "score": 79.36847454425443,
+    "engagement_score": 32.36666666666667,
+    "avg_time_per_access": 371.0,
+    "learning_state": "proficient"
+  },
+  {
+    "time_spent": 2250,
+    "access_count": 3,
+    "score": 26.685366697226186,
+    "engagement_score": 67.5,
+    "avg_time_per_access": 750.0,
+    "learning_state": "struggling"
+  },
+  {
+    "time_spent": 3122,
+    "access_count": 5,
+    "score": 16.701458789990518,
+    "engagement_score": 100,
+    "avg_time_per_access": 624.4,
+    "learning_state": "struggling"
+  },
+  {
+    "time_spent": 2937,
+    "access_count": 5,
+    "score": 28.207851406417262,
+    "engagement_score": 98.95,
+    "avg_time_per_access": 587.4,
+    "learning_state": "struggling"
+  },
+  {
+    "time_spent": 1798,
+    "access_count": 7,
+    "score": 12.55576522949301,
+    "engagement_score": 99.96666666666667,
+    "avg_time_per_access": 256.85714285714283,
+    "learning_state": "struggling"
+  },
+  {
+    "time_spent": 1712,
+    "access_count": 3,
+    "score": 41.47681530198787,
+    "engagement_score": 58.53333333333333,
+    "avg_time_per_access": 570.6666666666666,
+    "learning_state": "struggling"
+  },
+  {
+    "time_spent": 552,
+    "access_count": 2,
+    "score": 94.20214063335072,
+    "engagement_score": 29.2,
+    "avg_time_per_access": 276.0,
+    "learning_state": "proficient"
+  },
+  {
+    "time_spent": 3396,
+    "access_count": 4,
+    "score": 27.305552216365502,
+    "engagement_score": 96.6,
+    "avg_time_per_access": 849.0,
+    "learning_state": "struggling"
+  },
+  {
+    "time_spent": 1509,
+    "access_count": 4,
+    "score": 4.421877611764547,
+    "engagement_score": 65.15,
+    "avg_time_per_access": 377.25,
+    "learning_state": "struggling"
+  },
+  {
+    "time_spent": 1239,
+    "access_count": 4,
+    "score": 59.697018012225364,
+    "engagement_score": 60.65,
+    "avg_time_per_access": 309.75,
+    "learning_state": "needs_practice"
+  },
+  {
+    "time_spent": 919,
+    "access_count": 5,
+    "score": 67.28785143247093,
+    "engagement_score": 65.31666666666666,
+    "avg_time_per_access": 183.8,
+    "learning_state": "needs_practice"
+  },
+  {
+    "time_spent": 3386,
+    "access_count": 3,
+    "score": 0.9513767469233159,
+    "engagement_score": 86.43333333333334,
+    "avg_time_per_access": 1128.6666666666667,
+    "learning_state": "struggling"
+  },
+  {
+    "time_spent": 977,
+    "access_count": 3,
+    "score": 62.49542290195767,
+    "engagement_score": 46.28333333333333,
+    "avg_time_per_access": 325.6666666666667,
+    "learning_state": "needs_practice"
+  },
+  {
+    "time_spent": 3172,
+    "access_count": 3,
+    "score": 8.4913397051956,
+    "engagement_score": 82.86666666666667,
+    "avg_time_per_access": 1057.3333333333333,
+    "learning_state": "struggling"
+  },
+  {
+    "time_spent": 344,
+    "access_count": 1,
+    "score": 96.32860008061992,
+    "engagement_score": 15.733333333333334,
+    "avg_time_per_access": 344.0,
+    "learning_state": "proficient"
+  },
+  {
+    "time_spent": 1739,
+    "access_count": 5,
+    "score": 22.817977294391657,
+    "engagement_score": 78.98333333333333,
+    "avg_time_per_access": 347.8,
+    "learning_state": "struggling"
+  },
+  {
+    "time_spent": 548,
+    "access_count": 3,
+    "score": 94.43535253217468,
+    "engagement_score": 39.13333333333333,
+    "avg_time_per_access": 182.66666666666666,
+    "learning_state": "proficient"
+  },
+  {
+    "time_spent": 408,
+    "access_count": 2,
+    "score": 85.24897412871711,
+    "engagement_score": 26.8,
+    "avg_time_per_access": 204.0,
+    "learning_state": "proficient"
+  },
+  {
+    "time_spent": 2391,
+    "access_count": 5,
+    "score": 25.481276667237207,
+    "engagement_score": 89.85,
+    "avg_time_per_access": 478.2,
+    "learning_state": "struggling"
+  },
+  {
+    "time_spent": 2923,
+    "access_count": 6,
+    "score": 25.09990788646287,
+    "engagement_score": 100,
+    "avg_time_per_access": 487.1666666666667,
+    "learning_state": "struggling"
+  },
+  {
+    "time_spent": 1281,
+    "access_count": 2,
+    "score": 68.89471640521674,
+    "engagement_score": 41.35,
+    "avg_time_per_access": 640.5,
+    "learning_state": "needs_practice"
+  },
+  {
+    "time_spent": 3237,
+    "access_count": 8,
+    "score": 23.665847738227587,
+    "engagement_score": 100,
+    "avg_time_per_access": 404.625,
+    "learning_state": "struggling"
+  },
+  {
+    "time_spent": 1307,
+    "access_count": 8,
+    "score": 36.041417584085046,
+    "engagement_score": 100,
+    "avg_time_per_access": 163.375,
+    "learning_state": "struggling"
+  },
+  {
+    "time_spent": 1881,
+    "access_count": 5,
+    "score": 40.772468880983105,
+    "engagement_score": 81.35,
+    "avg_time_per_access": 376.2,
+    "learning_state": "struggling"
+  },
+  {
+    "time_spent": 2100,
+    "access_count": 3,
+    "score": 19.91809735034853,
+    "engagement_score": 65.0,
+    "avg_time_per_access": 700.0,
+    "learning_state": "struggling"
+  },
+  {
+    "time_spent": 1817,
+    "access_count": 5,
+    "score": 9.096323007469397,
+    "engagement_score": 80.28333333333333,
+    "avg_time_per_access": 363.4,
+    "learning_state": "struggling"
+  },
+  {
+    "time_spent": 733,
+    "access_count": 5,
+    "score": 60.06598379858807,
+    "engagement_score": 62.21666666666667,
+    "avg_time_per_access": 146.6,
+    "learning_state": "needs_practice"
+  },
+  {
+    "time_spent": 2138,
+    "access_count": 5,
+    "score": 40.50493751168061,
+    "engagement_score": 85.63333333333333,
+    "avg_time_per_access": 427.6,
+    "learning_state": "struggling"
+  },
+  {
+    "time_spent": 2429,
+    "access_count": 8,
+    "score": 34.53516925433544,
+    "engagement_score": 100,
+    "avg_time_per_access": 303.625,
+    "learning_state": "struggling"
+  },
+  {
+    "time_spent": 2902,
+    "access_count": 4,
+    "score": 36.43382661293537,
+    "engagement_score": 88.36666666666667,
+    "avg_time_per_access": 725.5,
+    "learning_state": "struggling"
+  },
+  {
+    "time_spent": 1414,
+    "access_count": 5,
+    "score": 45.38028134972586,
+    "engagement_score": 73.56666666666666,
+    "avg_time_per_access": 282.8,
+    "learning_state": "struggling"
+  },
+  {
+    "time_spent": 481,
+    "access_count": 2,
+    "score": 95.63565785043168,
+    "engagement_score": 28.016666666666666,
+    "avg_time_per_access": 240.5,
+    "learning_state": "proficient"
+  },
+  {
+    "time_spent": 615,
+    "access_count": 3,
+    "score": 77.6001988869239,
+    "engagement_score": 40.25,
+    "avg_time_per_access": 205.0,
+    "learning_state": "proficient"
+  },
+  {
+    "time_spent": 3516,
+    "access_count": 7,
+    "score": 6.8195695219214425,
+    "engagement_score": 100,
+    "avg_time_per_access": 502.2857142857143,
+    "learning_state": "struggling"
+  },
+  {
+    "time_spent": 3006,
+    "access_count": 5,
+    "score": 35.53139646839899,
+    "engagement_score": 100,
+    "avg_time_per_access": 601.2,
+    "learning_state": "struggling"
+  },
+  {
+    "time_spent": 524,
+    "access_count": 3,
+    "score": 89.9932283676713,
+    "engagement_score": 38.733333333333334,
+    "avg_time_per_access": 174.66666666666666,
+    "learning_state": "proficient"
+  },
+  {
+    "time_spent": 3539,
+    "access_count": 7,
+    "score": 12.405931382508717,
+    "engagement_score": 100,
+    "avg_time_per_access": 505.57142857142856,
+    "learning_state": "struggling"
+  },
+  {
+    "time_spent": 1681,
+    "access_count": 8,
+    "score": 15.532096606048063,
+    "engagement_score": 100,
+    "avg_time_per_access": 210.125,
+    "learning_state": "struggling"
+  },
+  {
+    "time_spent": 763,
+    "access_count": 1,
+    "score": 99.1098304793137,
+    "engagement_score": 22.71666666666667,
+    "avg_time_per_access": 763.0,
+    "learning_state": "proficient"
+  },
+  {
+    "time_spent": 1588,
+    "access_count": 4,
+    "score": 33.345065844885056,
+    "engagement_score": 66.46666666666667,
+    "avg_time_per_access": 397.0,
+    "learning_state": "struggling"
+  },
+  {
+    "time_spent": 515,
+    "access_count": 2,
+    "score": 77.9083142653891,
+    "engagement_score": 28.583333333333336,
+    "avg_time_per_access": 257.5,
+    "learning_state": "proficient"
+  },
+  {
+    "time_spent": 1993,
+    "access_count": 4,
+    "score": 5.8424072668883165,
+    "engagement_score": 73.21666666666667,
+    "avg_time_per_access": 498.25,
+    "learning_state": "struggling"
+  },
+  {
+    "time_spent": 619,
+    "access_count": 1,
+    "score": 85.15872330869797,
+    "engagement_score": 20.316666666666666,
+    "avg_time_per_access": 619.0,
+    "learning_state": "proficient"
+  },
+  {
+    "time_spent": 526,
+    "access_count": 3,
+    "score": 98.51636492658177,
+    "engagement_score": 38.766666666666666,
+    "avg_time_per_access": 175.33333333333334,
+    "learning_state": "proficient"
+  },
+  {
+    "time_spent": 1118,
+    "access_count": 3,
+    "score": 58.08628023032103,
+    "engagement_score": 48.63333333333333,
+    "avg_time_per_access": 372.6666666666667,
+    "learning_state": "needs_practice"
+  },
+  {
+    "time_spent": 355,
+    "access_count": 2,
+    "score": 95.74277501661898,
+    "engagement_score": 25.916666666666668,
+    "avg_time_per_access": 177.5,
+    "learning_state": "proficient"
+  },
+  {
+    "time_spent": 1299,
+    "access_count": 7,
+    "score": 17.611420025877468,
+    "engagement_score": 91.65,
+    "avg_time_per_access": 185.57142857142858,
+    "learning_state": "struggling"
+  },
+  {
+    "time_spent": 721,
+    "access_count": 2,
+    "score": 81.89047299813066,
+    "engagement_score": 32.016666666666666,
+    "avg_time_per_access": 360.5,
+    "learning_state": "proficient"
+  },
+  {
+    "time_spent": 2477,
+    "access_count": 8,
+    "score": 41.81190434643513,
+    "engagement_score": 100,
+    "avg_time_per_access": 309.625,
+    "learning_state": "struggling"
+  },
+  {
+    "time_spent": 1566,
+    "access_count": 5,
+    "score": 3.0890791903989356,
+    "engagement_score": 76.1,
+    "avg_time_per_access": 313.2,
+    "learning_state": "struggling"
+  },
+  {
+    "time_spent": 2808,
+    "access_count": 6,
+    "score": 22.850710811657592,
+    "engagement_score": 100,
+    "avg_time_per_access": 468.0,
+    "learning_state": "struggling"
+  },
+  {
+    "time_spent": 2685,
+    "access_count": 3,
+    "score": 38.341938097169944,
+    "engagement_score": 74.75,
+    "avg_time_per_access": 895.0,
+    "learning_state": "struggling"
+  },
+  {
+    "time_spent": 1487,
+    "access_count": 3,
+    "score": 56.13440715148672,
+    "engagement_score": 54.78333333333333,
+    "avg_time_per_access": 495.6666666666667,
+    "learning_state": "needs_practice"
+  },
+  {
+    "time_spent": 831,
+    "access_count": 1,
+    "score": 91.68999229455112,
+    "engagement_score": 23.85,
+    "avg_time_per_access": 831.0,
+    "learning_state": "proficient"
+  },
+  {
+    "time_spent": 778,
+    "access_count": 1,
+    "score": 93.51472683114967,
+    "engagement_score": 22.96666666666667,
+    "avg_time_per_access": 778.0,
+    "learning_state": "proficient"
+  },
+  {
+    "time_spent": 868,
+    "access_count": 2,
+    "score": 88.12790386106698,
+    "engagement_score": 34.46666666666667,
+    "avg_time_per_access": 434.0,
+    "learning_state": "proficient"
+  },
+  {
+    "time_spent": 1635,
+    "access_count": 4,
+    "score": 1.8729920384214727,
+    "engagement_score": 67.25,
+    "avg_time_per_access": 408.75,
+    "learning_state": "struggling"
+  },
+  {
+    "time_spent": 1356,
+    "access_count": 3,
+    "score": 63.282230337781975,
+    "engagement_score": 52.6,
+    "avg_time_per_access": 452.0,
+    "learning_state": "needs_practice"
+  },
+  {
+    "time_spent": 1205,
+    "access_count": 4,
+    "score": 65.17239945889098,
+    "engagement_score": 60.08333333333333,
+    "avg_time_per_access": 301.25,
+    "learning_state": "needs_practice"
+  },
+  {
+    "time_spent": 1352,
+    "access_count": 4,
+    "score": 46.888153736861526,
+    "engagement_score": 62.53333333333333,
+    "avg_time_per_access": 338.0,
+    "learning_state": "struggling"
+  },
+  {
+    "time_spent": 770,
+    "access_count": 2,
+    "score": 89.58369997620038,
+    "engagement_score": 32.833333333333336,
+    "avg_time_per_access": 385.0,
+    "learning_state": "proficient"
+  },
+  {
+    "time_spent": 3193,
+    "access_count": 5,
+    "score": 9.54425809415681,
+    "engagement_score": 100,
+    "avg_time_per_access": 638.6,
+    "learning_state": "struggling"
+  },
+  {
+    "time_spent": 1519,
+    "access_count": 2,
+    "score": 63.32666296710866,
+    "engagement_score": 45.31666666666666,
+    "avg_time_per_access": 759.5,
+    "learning_state": "needs_practice"
+  },
+  {
+    "time_spent": 345,
+    "access_count": 1,
+    "score": 81.16772878097754,
+    "engagement_score": 15.75,
+    "avg_time_per_access": 345.0,
+    "learning_state": "proficient"
+  },
+  {
+    "time_spent": 1898,
+    "access_count": 7,
+    "score": 23.73044254796056,
+    "engagement_score": 100,
+    "avg_time_per_access": 271.14285714285717,
+    "learning_state": "struggling"
+  },
+  {
+    "time_spent": 3278,
+    "access_count": 8,
+    "score": 17.806575611055486,
+    "engagement_score": 100,
+    "avg_time_per_access": 409.75,
+    "learning_state": "struggling"
+  },
+  {
+    "time_spent": 1771,
+    "access_count": 2,
+    "score": 62.15813447393561,
+    "engagement_score": 49.516666666666666,
+    "avg_time_per_access": 885.5,
+    "learning_state": "needs_practice"
+  },
+  {
+    "time_spent": 1527,
+    "access_count": 6,
+    "score": 34.64942044061241,
+    "engagement_score": 85.45,
+    "avg_time_per_access": 254.5,
+    "learning_state": "struggling"
+  },
+  {
+    "time_spent": 1632,
+    "access_count": 3,
+    "score": 26.014834707054526,
+    "engagement_score": 57.2,
+    "avg_time_per_access": 544.0,
+    "learning_state": "struggling"
+  },
+  {
+    "time_spent": 579,
+    "access_count": 2,
+    "score": 76.5050857728607,
+    "engagement_score": 29.65,
+    "avg_time_per_access": 289.5,
+    "learning_state": "proficient"
+  },
+  {
+    "time_spent": 2914,
+    "access_count": 7,
+    "score": 3.5957746507841892,
+    "engagement_score": 100,
+    "avg_time_per_access": 416.2857142857143,
+    "learning_state": "struggling"
+  },
+  {
+    "time_spent": 710,
+    "access_count": 1,
+    "score": 78.09719079063565,
+    "engagement_score": 21.833333333333336,
+    "avg_time_per_access": 710.0,
+    "learning_state": "proficient"
+  },
+  {
+    "time_spent": 405,
+    "access_count": 2,
+    "score": 99.58587335930557,
+    "engagement_score": 26.75,
+    "avg_time_per_access": 202.5,
+    "learning_state": "proficient"
+  },
+  {
+    "time_spent": 3081,
+    "access_count": 7,
+    "score": 42.57315772706157,
+    "engagement_score": 100,
+    "avg_time_per_access": 440.14285714285717,
+    "learning_state": "struggling"
+  },
+  {
+    "time_spent": 387,
+    "access_count": 3,
+    "score": 99.12875290954709,
+    "engagement_score": 36.45,
+    "avg_time_per_access": 129.0,
+    "learning_state": "proficient"
+  },
+  {
+    "time_spent": 3484,
+    "access_count": 4,
+    "score": 0.7018154500767593,
+    "engagement_score": 98.06666666666666,
+    "avg_time_per_access": 871.0,
+    "learning_state": "struggling"
+  },
+  {
+    "time_spent": 2702,
+    "access_count": 5,
+    "score": 4.842786181984648,
+    "engagement_score": 95.03333333333333,
+    "avg_time_per_access": 540.4,
+    "learning_state": "struggling"
+  },
+  {
+    "time_spent": 1799,
+    "access_count": 3,
+    "score": 27.06919189143031,
+    "engagement_score": 59.983333333333334,
+    "avg_time_per_access": 599.6666666666666,
+    "learning_state": "struggling"
+  },
+  {
+    "time_spent": 756,
+    "access_count": 5,
+    "score": 60.45334630721835,
+    "engagement_score": 62.6,
+    "avg_time_per_access": 151.2,
+    "learning_state": "needs_practice"
+  },
+  {
+    "time_spent": 1032,
+    "access_count": 5,
+    "score": 54.00180546759476,
+    "engagement_score": 67.2,
+    "avg_time_per_access": 206.4,
+    "learning_state": "needs_practice"
+  },
+  {
+    "time_spent": 3378,
+    "access_count": 5,
+    "score": 11.19932067598668,
+    "engagement_score": 100,
+    "avg_time_per_access": 675.6,
+    "learning_state": "struggling"
+  },
+  {
+    "time_spent": 2970,
+    "access_count": 6,
+    "score": 46.25309220035207,
+    "engagement_score": 100,
+    "avg_time_per_access": 495.0,
+    "learning_state": "struggling"
+  },
+  {
+    "time_spent": 1261,
+    "access_count": 7,
+    "score": 40.625507367785104,
+    "engagement_score": 91.01666666666667,
+    "avg_time_per_access": 180.14285714285714,
+    "learning_state": "struggling"
+  },
+  {
+    "time_spent": 2835,
+    "access_count": 3,
+    "score": 5.220883201158388,
+    "engagement_score": 77.25,
+    "avg_time_per_access": 945.0,
+    "learning_state": "struggling"
+  },
+  {
+    "time_spent": 858,
+    "access_count": 1,
+    "score": 98.70895038884053,
+    "engagement_score": 24.3,
+    "avg_time_per_access": 858.0,
+    "learning_state": "proficient"
+  },
+  {
+    "time_spent": 745,
+    "access_count": 2,
+    "score": 94.50987349952467,
+    "engagement_score": 32.416666666666664,
+    "avg_time_per_access": 372.5,
+    "learning_state": "proficient"
+  },
+  {
+    "time_spent": 2524,
+    "access_count": 5,
+    "score": 33.09331851304492,
+    "engagement_score": 92.06666666666666,
+    "avg_time_per_access": 504.8,
+    "learning_state": "struggling"
+  },
+  {
+    "time_spent": 1545,
+    "access_count": 3,
+    "score": 14.880965014976521,
+    "engagement_score": 55.75,
+    "avg_time_per_access": 515.0,
+    "learning_state": "struggling"
+  },
+  {
+    "time_spent": 3131,
+    "access_count": 7,
+    "score": 2.177465006455259,
+    "engagement_score": 100,
+    "avg_time_per_access": 447.2857142857143,
+    "learning_state": "struggling"
+  },
+  {
+    "time_spent": 1328,
+    "access_count": 4,
+    "score": 17.6242519057195,
+    "engagement_score": 62.13333333333333,
+    "avg_time_per_access": 332.0,
+    "learning_state": "struggling"
+  },
+  {
+    "time_spent": 455,
+    "access_count": 1,
+    "score": 75.98220105052063,
+    "engagement_score": 17.583333333333332,
+    "avg_time_per_access": 455.0,
+    "learning_state": "proficient"
+  },
+  {
+    "time_spent": 690,
+    "access_count": 2,
+    "score": 84.81548777461352,
+    "engagement_score": 31.5,
+    "avg_time_per_access": 345.0,
+    "learning_state": "proficient"
+  },
+  {
+    "time_spent": 1707,
+    "access_count": 3,
+    "score": 50.33058960679174,
+    "engagement_score": 58.45,
+    "avg_time_per_access": 569.0,
+    "learning_state": "needs_practice"
+  },
+  {
+    "time_spent": 1546,
+    "access_count": 2,
+    "score": 57.75729191822088,
+    "engagement_score": 45.766666666666666,
+    "avg_time_per_access": 773.0,
+    "learning_state": "needs_practice"
+  },
+  {
+    "time_spent": 2576,
+    "access_count": 7,
+    "score": 22.290041738003865,
+    "engagement_score": 100,
+    "avg_time_per_access": 368.0,
+    "learning_state": "struggling"
+  },
+  {
+    "time_spent": 999,
+    "access_count": 5,
+    "score": 73.58513377120059,
+    "engagement_score": 66.65,
+    "avg_time_per_access": 199.8,
+    "learning_state": "needs_practice"
+  },
+  {
+    "time_spent": 974,
+    "access_count": 5,
+    "score": 55.894413463794955,
+    "engagement_score": 66.23333333333333,
+    "avg_time_per_access": 194.8,
+    "learning_state": "needs_practice"
+  },
+  {
+    "time_spent": 321,
+    "access_count": 2,
+    "score": 90.75972377315394,
+    "engagement_score": 25.35,
+    "avg_time_per_access": 160.5,
+    "learning_state": "proficient"
+  },
+  {
+    "time_spent": 1185,
+    "access_count": 4,
+    "score": 71.72178859711475,
+    "engagement_score": 59.75,
+    "avg_time_per_access": 296.25,
+    "learning_state": "needs_practice"
+  },
+  {
+    "time_spent": 2870,
+    "access_count": 8,
+    "score": 12.735677062378114,
+    "engagement_score": 100,
+    "avg_time_per_access": 358.75,
+    "learning_state": "struggling"
+  },
+  {
+    "time_spent": 888,
+    "access_count": 5,
+    "score": 50.61441838967685,
+    "engagement_score": 64.8,
+    "avg_time_per_access": 177.6,
+    "learning_state": "needs_practice"
+  },
+  {
+    "time_spent": 2002,
+    "access_count": 8,
+    "score": 1.5862695826896922,
+    "engagement_score": 100,
+    "avg_time_per_access": 250.25,
+    "learning_state": "struggling"
+  },
+  {
+    "time_spent": 688,
+    "access_count": 2,
+    "score": 95.09360962580664,
+    "engagement_score": 31.46666666666667,
+    "avg_time_per_access": 344.0,
+    "learning_state": "proficient"
+  },
+  {
+    "time_spent": 1856,
+    "access_count": 5,
+    "score": 5.839183604901688,
+    "engagement_score": 80.93333333333334,
+    "avg_time_per_access": 371.2,
+    "learning_state": "struggling"
+  },
+  {
+    "time_spent": 1363,
+    "access_count": 7,
+    "score": 44.104048468162404,
+    "engagement_score": 92.71666666666667,
+    "avg_time_per_access": 194.71428571428572,
+    "learning_state": "struggling"
+  },
+  {
+    "time_spent": 2479,
+    "access_count": 7,
+    "score": 28.35988094791375,
+    "engagement_score": 100,
+    "avg_time_per_access": 354.14285714285717,
+    "learning_state": "struggling"
+  },
+  {
+    "time_spent": 1967,
+    "access_count": 4,
+    "score": 31.21201083861963,
+    "engagement_score": 72.78333333333333,
+    "avg_time_per_access": 491.75,
+    "learning_state": "struggling"
+  },
+  {
+    "time_spent": 2494,
+    "access_count": 5,
+    "score": 42.95524974237963,
+    "engagement_score": 91.56666666666666,
+    "avg_time_per_access": 498.8,
+    "learning_state": "struggling"
+  },
+  {
+    "time_spent": 604,
+    "access_count": 1,
+    "score": 76.86821293497874,
+    "engagement_score": 20.066666666666666,
+    "avg_time_per_access": 604.0,
+    "learning_state": "proficient"
+  },
+  {
+    "time_spent": 3378,
+    "access_count": 5,
+    "score": 47.47086474687683,
+    "engagement_score": 100,
+    "avg_time_per_access": 675.6,
+    "learning_state": "struggling"
+  },
+  {
+    "time_spent": 823,
+    "access_count": 3,
+    "score": 93.01141565641325,
+    "engagement_score": 43.71666666666667,
+    "avg_time_per_access": 274.3333333333333,
+    "learning_state": "proficient"
+  },
+  {
+    "time_spent": 2717,
+    "access_count": 7,
+    "score": 4.975821175829564,
+    "engagement_score": 100,
+    "avg_time_per_access": 388.14285714285717,
+    "learning_state": "struggling"
+  },
+  {
+    "time_spent": 2283,
+    "access_count": 7,
+    "score": 20.99798953279589,
+    "engagement_score": 100,
+    "avg_time_per_access": 326.14285714285717,
+    "learning_state": "struggling"
+  },
+  {
+    "time_spent": 2987,
+    "access_count": 5,
+    "score": 2.061161199734818,
+    "engagement_score": 99.78333333333333,
+    "avg_time_per_access": 597.4,
+    "learning_state": "struggling"
+  },
+  {
+    "time_spent": 662,
+    "access_count": 2,
+    "score": 92.54740700359365,
+    "engagement_score": 31.03333333333333,
+    "avg_time_per_access": 331.0,
+    "learning_state": "proficient"
+  },
+  {
+    "time_spent": 2826,
+    "access_count": 3,
+    "score": 35.38843691386053,
+    "engagement_score": 77.1,
+    "avg_time_per_access": 942.0,
+    "learning_state": "struggling"
+  },
+  {
+    "time_spent": 1501,
+    "access_count": 3,
+    "score": 74.08260641010948,
+    "engagement_score": 55.016666666666666,
+    "avg_time_per_access": 500.3333333333333,
+    "learning_state": "needs_practice"
+  },
+  {
+    "time_spent": 953,
+    "access_count": 5,
+    "score": 55.07874181644253,
+    "engagement_score": 65.88333333333333,
+    "avg_time_per_access": 190.6,
+    "learning_state": "needs_practice"
+  },
+  {
+    "time_spent": 324,
+    "access_count": 2,
+    "score": 92.6948869226797,
+    "engagement_score": 25.4,
+    "avg_time_per_access": 162.0,
+    "learning_state": "proficient"
+  },
+  {
+    "time_spent": 1254,
+    "access_count": 4,
+    "score": 52.55672912628597,
+    "engagement_score": 60.9,
+    "avg_time_per_access": 313.5,
+    "learning_state": "needs_practice"
+  },
+  {
+    "time_spent": 3093,
+    "access_count": 5,
+    "score": 25.658562144319696,
+    "engagement_score": 100,
+    "avg_time_per_access": 618.6,
+    "learning_state": "struggling"
+  },
+  {
+    "time_spent": 1405,
+    "access_count": 2,
+    "score": 59.23727108888864,
+    "engagement_score": 43.41666666666667,
+    "avg_time_per_access": 702.5,
+    "learning_state": "needs_practice"
+  },
+  {
+    "time_spent": 771,
+    "access_count": 2,
+    "score": 51.30530391169932,
+    "engagement_score": 32.85,
+    "avg_time_per_access": 385.5,
+    "learning_state": "needs_practice"
+  },
+  {
+    "time_spent": 3111,
+    "access_count": 7,
+    "score": 25.148205377762967,
+    "engagement_score": 100,
+    "avg_time_per_access": 444.42857142857144,
+    "learning_state": "struggling"
+  },
+  {
+    "time_spent": 2216,
+    "access_count": 6,
+    "score": 30.342720493514207,
+    "engagement_score": 96.93333333333334,
+    "avg_time_per_access": 369.3333333333333,
+    "learning_state": "struggling"
+  },
+  {
+    "time_spent": 2895,
+    "access_count": 4,
+    "score": 28.187607070347887,
+    "engagement_score": 88.25,
+    "avg_time_per_access": 723.75,
+    "learning_state": "struggling"
+  },
+  {
+    "time_spent": 377,
+    "access_count": 2,
+    "score": 97.51250419385782,
+    "engagement_score": 26.28333333333333,
+    "avg_time_per_access": 188.5,
+    "learning_state": "proficient"
+  },
+  {
+    "time_spent": 1498,
+    "access_count": 6,
+    "score": 27.676063964007657,
+    "engagement_score": 84.96666666666667,
+    "avg_time_per_access": 249.66666666666666,
+    "learning_state": "struggling"
+  },
+  {
+    "time_spent": 2702,
+    "access_count": 6,
+    "score": 48.1489877861064,
+    "engagement_score": 100,
+    "avg_time_per_access": 450.3333333333333,
+    "learning_state": "struggling"
+  },
+  {
+    "time_spent": 3389,
+    "access_count": 6,
+    "score": 45.014893964520816,
+    "engagement_score": 100,
+    "avg_time_per_access": 564.8333333333334,
+    "learning_state": "struggling"
+  },
+  {
+    "time_spent": 1257,
+    "access_count": 7,
+    "score": 12.259937608771965,
+    "engagement_score": 90.95,
+    "avg_time_per_access": 179.57142857142858,
+    "learning_state": "struggling"
+  },
+  {
+    "time_spent": 1517,
+    "access_count": 6,
+    "score": 34.0663584664091,
+    "engagement_score": 85.28333333333333,
+    "avg_time_per_access": 252.83333333333334,
+    "learning_state": "struggling"
+  },
+  {
+    "time_spent": 1102,
+    "access_count": 2,
+    "score": 65.32678572851363,
+    "engagement_score": 38.36666666666667,
+    "avg_time_per_access": 551.0,
+    "learning_state": "needs_practice"
+  },
+  {
+    "time_spent": 672,
+    "access_count": 2,
+    "score": 79.7236321365894,
+    "engagement_score": 31.2,
+    "avg_time_per_access": 336.0,
+    "learning_state": "proficient"
+  },
+  {
+    "time_spent": 477,
+    "access_count": 1,
+    "score": 96.904369957793,
+    "engagement_score": 17.95,
+    "avg_time_per_access": 477.0,
+    "learning_state": "proficient"
+  },
+  {
+    "time_spent": 2004,
+    "access_count": 8,
+    "score": 36.95896157133194,
+    "engagement_score": 100,
+    "avg_time_per_access": 250.5,
+    "learning_state": "struggling"
+  },
+  {
+    "time_spent": 796,
+    "access_count": 2,
+    "score": 91.41325667232482,
+    "engagement_score": 33.266666666666666,
+    "avg_time_per_access": 398.0,
+    "learning_state": "proficient"
+  },
+  {
+    "time_spent": 615,
+    "access_count": 2,
+    "score": 84.12156928589351,
+    "engagement_score": 30.25,
+    "avg_time_per_access": 307.5,
+    "learning_state": "proficient"
+  },
+  {
+    "time_spent": 1555,
+    "access_count": 8,
+    "score": 13.453219545892992,
+    "engagement_score": 100,
+    "avg_time_per_access": 194.375,
+    "learning_state": "struggling"
+  },
+  {
+    "time_spent": 2737,
+    "access_count": 7,
+    "score": 47.14116041969512,
+    "engagement_score": 100,
+    "avg_time_per_access": 391.0,
+    "learning_state": "struggling"
+  },
+  {
+    "time_spent": 648,
+    "access_count": 3,
+    "score": 76.15716082960621,
+    "engagement_score": 40.8,
+    "avg_time_per_access": 216.0,
+    "learning_state": "proficient"
+  },
+  {
+    "time_spent": 685,
+    "access_count": 1,
+    "score": 87.9832068360559,
+    "engagement_score": 21.416666666666664,
+    "avg_time_per_access": 685.0,
+    "learning_state": "proficient"
+  },
+  {
+    "time_spent": 1170,
+    "access_count": 2,
+    "score": 60.77540342199986,
+    "engagement_score": 39.5,
+    "avg_time_per_access": 585.0,
+    "learning_state": "needs_practice"
+  },
+  {
+    "time_spent": 758,
+    "access_count": 4,
+    "score": 70.0719446584078,
+    "engagement_score": 52.63333333333333,
+    "avg_time_per_access": 189.5,
+    "learning_state": "needs_practice"
+  },
+  {
+    "time_spent": 405,
+    "access_count": 3,
+    "score": 79.19401715324621,
+    "engagement_score": 36.75,
+    "avg_time_per_access": 135.0,
+    "learning_state": "proficient"
+  },
+  {
+    "time_spent": 1714,
+    "access_count": 3,
+    "score": 24.56665129486878,
+    "engagement_score": 58.56666666666666,
+    "avg_time_per_access": 571.3333333333334,
+    "learning_state": "struggling"
+  },
+  {
+    "time_spent": 823,
+    "access_count": 1,
+    "score": 88.96887034914755,
+    "engagement_score": 23.71666666666667,
+    "avg_time_per_access": 823.0,
+    "learning_state": "proficient"
+  },
+  {
+    "time_spent": 1497,
+    "access_count": 5,
+    "score": 34.33472098421684,
+    "engagement_score": 74.95,
+    "avg_time_per_access": 299.4,
+    "learning_state": "struggling"
+  },
+  {
+    "time_spent": 2718,
+    "access_count": 5,
+    "score": 17.094277916827384,
+    "engagement_score": 95.3,
+    "avg_time_per_access": 543.6,
+    "learning_state": "struggling"
+  },
+  {
+    "time_spent": 1054,
+    "access_count": 5,
+    "score": 66.5037238332593,
+    "engagement_score": 67.56666666666666,
+    "avg_time_per_access": 210.8,
+    "learning_state": "needs_practice"
+  },
+  {
+    "time_spent": 897,
+    "access_count": 2,
+    "score": 89.55625318556147,
+    "engagement_score": 34.95,
+    "avg_time_per_access": 448.5,
+    "learning_state": "proficient"
+  },
+  {
+    "time_spent": 930,
+    "access_count": 3,
+    "score": 67.6193614565474,
+    "engagement_score": 45.5,
+    "avg_time_per_access": 310.0,
+    "learning_state": "needs_practice"
+  },
+  {
+    "time_spent": 819,
+    "access_count": 1,
+    "score": 96.24604233930002,
+    "engagement_score": 23.65,
+    "avg_time_per_access": 819.0,
+    "learning_state": "proficient"
+  },
+  {
+    "time_spent": 3008,
+    "access_count": 4,
+    "score": 1.6499096398006619,
+    "engagement_score": 90.13333333333333,
+    "avg_time_per_access": 752.0,
+    "learning_state": "struggling"
+  },
+  {
+    "time_spent": 787,
+    "access_count": 2,
+    "score": 82.95274376044517,
+    "engagement_score": 33.11666666666667,
+    "avg_time_per_access": 393.5,
+    "learning_state": "proficient"
+  },
+  {
+    "time_spent": 3203,
+    "access_count": 6,
+    "score": 26.141136187133572,
+    "engagement_score": 100,
+    "avg_time_per_access": 533.8333333333334,
+    "learning_state": "struggling"
+  },
+  {
+    "time_spent": 778,
+    "access_count": 1,
+    "score": 85.8574652896018,
+    "engagement_score": 22.96666666666667,
+    "avg_time_per_access": 778.0,
+    "learning_state": "proficient"
+  },
+  {
+    "time_spent": 1268,
+    "access_count": 5,
+    "score": 67.20415252235935,
+    "engagement_score": 71.13333333333333,
+    "avg_time_per_access": 253.6,
+    "learning_state": "needs_practice"
+  },
+  {
+    "time_spent": 583,
+    "access_count": 3,
+    "score": 97.02584122667488,
+    "engagement_score": 39.71666666666667,
+    "avg_time_per_access": 194.33333333333334,
+    "learning_state": "proficient"
+  },
+  {
+    "time_spent": 3162,
+    "access_count": 6,
+    "score": 18.88205278481917,
+    "engagement_score": 100,
+    "avg_time_per_access": 527.0,
+    "learning_state": "struggling"
+  },
+  {
+    "time_spent": 2309,
+    "access_count": 7,
+    "score": 19.751170230292658,
+    "engagement_score": 100,
+    "avg_time_per_access": 329.85714285714283,
+    "learning_state": "struggling"
+  },
+  {
+    "time_spent": 3365,
+    "access_count": 4,
+    "score": 1.9760762273860144,
+    "engagement_score": 96.08333333333334,
+    "avg_time_per_access": 841.25,
+    "learning_state": "struggling"
+  },
+  {
+    "time_spent": 1449,
+    "access_count": 2,
+    "score": 51.72681878793443,
+    "engagement_score": 44.15,
+    "avg_time_per_access": 724.5,
+    "learning_state": "needs_practice"
+  },
+  {
+    "time_spent": 1886,
+    "access_count": 8,
+    "score": 12.508971224095045,
+    "engagement_score": 100,
+    "avg_time_per_access": 235.75,
+    "learning_state": "struggling"
+  },
+  {
+    "time_spent": 449,
+    "access_count": 2,
+    "score": 95.91528722266496,
+    "engagement_score": 27.483333333333334,
+    "avg_time_per_access": 224.5,
+    "learning_state": "proficient"
+  },
+  {
+    "time_spent": 1700,
+    "access_count": 3,
+    "score": 67.07379599509186,
+    "engagement_score": 58.33333333333333,
+    "avg_time_per_access": 566.6666666666666,
+    "learning_state": "needs_practice"
+  },
+  {
+    "time_spent": 2831,
+    "access_count": 8,
+    "score": 21.112630502077344,
+    "engagement_score": 100,
+    "avg_time_per_access": 353.875,
+    "learning_state": "struggling"
+  },
+  {
+    "time_spent": 1620,
+    "access_count": 5,
+    "score": 67.30562926411999,
+    "engagement_score": 77.0,
+    "avg_time_per_access": 324.0,
+    "learning_state": "needs_practice"
+  },
+  {
+    "time_spent": 1372,
+    "access_count": 5,
+    "score": 4.593746372719254,
+    "engagement_score": 72.86666666666667,
+    "avg_time_per_access": 274.4,
+    "learning_state": "struggling"
+  },
+  {
+    "time_spent": 2909,
+    "access_count": 3,
+    "score": 2.5888763619537403,
+    "engagement_score": 78.48333333333333,
+    "avg_time_per_access": 969.6666666666666,
+    "learning_state": "struggling"
+  },
+  {
+    "time_spent": 2211,
+    "access_count": 6,
+    "score": 37.36881923986738,
+    "engagement_score": 96.85,
+    "avg_time_per_access": 368.5,
+    "learning_state": "struggling"
+  },
+  {
+    "time_spent": 1478,
+    "access_count": 5,
+    "score": 59.799598836646794,
+    "engagement_score": 74.63333333333333,
+    "avg_time_per_access": 295.6,
+    "learning_state": "needs_practice"
+  },
+  {
+    "time_spent": 2630,
+    "access_count": 6,
+    "score": 42.279067284323446,
+    "engagement_score": 100,
+    "avg_time_per_access": 438.3333333333333,
+    "learning_state": "struggling"
+  },
+  {
+    "time_spent": 346,
+    "access_count": 2,
+    "score": 82.99729878463049,
+    "engagement_score": 25.766666666666666,
+    "avg_time_per_access": 173.0,
+    "learning_state": "proficient"
+  },
+  {
+    "time_spent": 2349,
+    "access_count": 7,
+    "score": 43.67015721365123,
+    "engagement_score": 100,
+    "avg_time_per_access": 335.57142857142856,
+    "learning_state": "struggling"
+  },
+  {
+    "time_spent": 988,
+    "access_count": 3,
+    "score": 56.09306083609352,
+    "engagement_score": 46.46666666666667,
+    "avg_time_per_access": 329.3333333333333,
+    "learning_state": "needs_practice"
+  },
+  {
+    "time_spent": 1390,
+    "access_count": 4,
+    "score": 24.67448995145508,
+    "engagement_score": 63.16666666666667,
+    "avg_time_per_access": 347.5,
+    "learning_state": "struggling"
+  },
+  {
+    "time_spent": 856,
+    "access_count": 3,
+    "score": 86.20129663211196,
+    "engagement_score": 44.266666666666666,
+    "avg_time_per_access": 285.3333333333333,
+    "learning_state": "proficient"
+  },
+  {
+    "time_spent": 459,
+    "access_count": 2,
+    "score": 84.38452098001589,
+    "engagement_score": 27.65,
+    "avg_time_per_access": 229.5,
+    "learning_state": "proficient"
+  },
+  {
+    "time_spent": 706,
+    "access_count": 3,
+    "score": 99.07473617451873,
+    "engagement_score": 41.766666666666666,
+    "avg_time_per_access": 235.33333333333334,
+    "learning_state": "proficient"
+  },
+  {
+    "time_spent": 313,
+    "access_count": 2,
+    "score": 86.06380680277907,
+    "engagement_score": 25.21666666666667,
+    "avg_time_per_access": 156.5,
+    "learning_state": "proficient"
+  },
+  {
+    "time_spent": 894,
+    "access_count": 5,
+    "score": 65.90616676371906,
+    "engagement_score": 64.9,
+    "avg_time_per_access": 178.8,
+    "learning_state": "needs_practice"
+  },
+  {
+    "time_spent": 1348,
+    "access_count": 3,
+    "score": 1.5466864947942027,
+    "engagement_score": 52.46666666666667,
+    "avg_time_per_access": 449.3333333333333,
+    "learning_state": "struggling"
+  },
+  {
+    "time_spent": 1343,
+    "access_count": 4,
+    "score": 52.02762536826565,
+    "engagement_score": 62.38333333333333,
+    "avg_time_per_access": 335.75,
+    "learning_state": "needs_practice"
+  },
+  {
+    "time_spent": 1238,
+    "access_count": 6,
+    "score": 1.038732578100332,
+    "engagement_score": 80.63333333333333,
+    "avg_time_per_access": 206.33333333333334,
+    "learning_state": "struggling"
+  },
+  {
+    "time_spent": 608,
+    "access_count": 2,
+    "score": 76.76238608620861,
+    "engagement_score": 30.133333333333333,
+    "avg_time_per_access": 304.0,
+    "learning_state": "proficient"
+  },
+  {
+    "time_spent": 2358,
+    "access_count": 6,
+    "score": 45.20035759640187,
+    "engagement_score": 99.3,
+    "avg_time_per_access": 393.0,
+    "learning_state": "struggling"
+  },
+  {
+    "time_spent": 2679,
+    "access_count": 8,
+    "score": 10.397839198563553,
+    "engagement_score": 100,
+    "avg_time_per_access": 334.875,
+    "learning_state": "struggling"
+  },
+  {
+    "time_spent": 850,
+    "access_count": 3,
+    "score": 89.63003620792288,
+    "engagement_score": 44.166666666666664,
+    "avg_time_per_access": 283.3333333333333,
+    "learning_state": "proficient"
+  },
+  {
+    "time_spent": 2708,
+    "access_count": 6,
+    "score": 14.924797406968526,
+    "engagement_score": 100,
+    "avg_time_per_access": 451.3333333333333,
+    "learning_state": "struggling"
+  },
+  {
+    "time_spent": 777,
+    "access_count": 3,
+    "score": 91.84878576149316,
+    "engagement_score": 42.95,
+    "avg_time_per_access": 259.0,
+    "learning_state": "proficient"
+  },
+  {
+    "time_spent": 2607,
+    "access_count": 4,
+    "score": 31.550134801597707,
+    "engagement_score": 83.45,
+    "avg_time_per_access": 651.75,
+    "learning_state": "struggling"
+  },
+  {
+    "time_spent": 840,
+    "access_count": 3,
+    "score": 53.91650849506616,
+    "engagement_score": 44.0,
+    "avg_time_per_access": 280.0,
+    "learning_state": "needs_practice"
+  },
+  {
+    "time_spent": 823,
+    "access_count": 1,
+    "score": 91.67488103688143,
+    "engagement_score": 23.71666666666667,
+    "avg_time_per_access": 823.0,
+    "learning_state": "proficient"
+  },
+  {
+    "time_spent": 2914,
+    "access_count": 5,
+    "score": 31.751762291233764,
+    "engagement_score": 98.56666666666666,
+    "avg_time_per_access": 582.8,
+    "learning_state": "struggling"
+  },
+  {
+    "time_spent": 1775,
+    "access_count": 5,
+    "score": 5.669250795735503,
+    "engagement_score": 79.58333333333333,
+    "avg_time_per_access": 355.0,
+    "learning_state": "struggling"
+  },
+  {
+    "time_spent": 819,
+    "access_count": 3,
+    "score": 88.19931355081711,
+    "engagement_score": 43.65,
+    "avg_time_per_access": 273.0,
+    "learning_state": "proficient"
+  },
+  {
+    "time_spent": 1626,
+    "access_count": 3,
+    "score": 57.42686509260939,
+    "engagement_score": 57.1,
+    "avg_time_per_access": 542.0,
+    "learning_state": "needs_practice"
+  },
+  {
+    "time_spent": 1339,
+    "access_count": 8,
+    "score": 43.3636869207183,
+    "engagement_score": 100,
+    "avg_time_per_access": 167.375,
+    "learning_state": "struggling"
+  },
+  {
+    "time_spent": 1942,
+    "access_count": 8,
+    "score": 38.61038975187918,
+    "engagement_score": 100,
+    "avg_time_per_access": 242.75,
+    "learning_state": "struggling"
+  },
+  {
+    "time_spent": 753,
+    "access_count": 3,
+    "score": 58.55030315862177,
+    "engagement_score": 42.55,
+    "avg_time_per_access": 251.0,
+    "learning_state": "needs_practice"
+  },
+  {
+    "time_spent": 411,
+    "access_count": 1,
+    "score": 89.11283517632359,
+    "engagement_score": 16.85,
+    "avg_time_per_access": 411.0,
+    "learning_state": "proficient"
+  },
+  {
+    "time_spent": 1273,
+    "access_count": 7,
+    "score": 30.785274223268498,
+    "engagement_score": 91.21666666666667,
+    "avg_time_per_access": 181.85714285714286,
+    "learning_state": "struggling"
+  },
+  {
+    "time_spent": 1942,
+    "access_count": 4,
+    "score": 37.998737744173404,
+    "engagement_score": 72.36666666666667,
+    "avg_time_per_access": 485.5,
+    "learning_state": "struggling"
+  },
+  {
+    "time_spent": 1424,
+    "access_count": 4,
+    "score": 63.19312429478414,
+    "engagement_score": 63.733333333333334,
+    "avg_time_per_access": 356.0,
+    "learning_state": "needs_practice"
+  },
+  {
+    "time_spent": 2976,
+    "access_count": 7,
+    "score": 47.490286599947616,
+    "engagement_score": 100,
+    "avg_time_per_access": 425.14285714285717,
+    "learning_state": "struggling"
+  },
+  {
+    "time_spent": 667,
+    "access_count": 3,
+    "score": 98.12492088509622,
+    "engagement_score": 41.11666666666667,
+    "avg_time_per_access": 222.33333333333334,
+    "learning_state": "proficient"
+  },
+  {
+    "time_spent": 859,
+    "access_count": 1,
+    "score": 98.04533674788298,
+    "engagement_score": 24.316666666666666,
+    "avg_time_per_access": 859.0,
+    "learning_state": "proficient"
+  },
+  {
+    "time_spent": 1095,
+    "access_count": 3,
+    "score": 63.382681978532794,
+    "engagement_score": 48.25,
+    "avg_time_per_access": 365.0,
+    "learning_state": "needs_practice"
+  },
+  {
+    "time_spent": 3015,
+    "access_count": 8,
+    "score": 27.995811364782398,
+    "engagement_score": 100,
+    "avg_time_per_access": 376.875,
+    "learning_state": "struggling"
+  },
+  {
+    "time_spent": 636,
+    "access_count": 2,
+    "score": 98.55683386738062,
+    "engagement_score": 30.6,
+    "avg_time_per_access": 318.0,
+    "learning_state": "proficient"
+  },
+  {
+    "time_spent": 2294,
+    "access_count": 7,
+    "score": 42.46689367993931,
+    "engagement_score": 100,
+    "avg_time_per_access": 327.7142857142857,
+    "learning_state": "struggling"
+  },
+  {
+    "time_spent": 2437,
+    "access_count": 3,
+    "score": 0.8685020666393872,
+    "engagement_score": 70.61666666666667,
+    "avg_time_per_access": 812.3333333333334,
+    "learning_state": "struggling"
+  },
+  {
+    "time_spent": 1586,
+    "access_count": 6,
+    "score": 7.682449500935718,
+    "engagement_score": 86.43333333333334,
+    "avg_time_per_access": 264.3333333333333,
+    "learning_state": "struggling"
+  },
+  {
+    "time_spent": 2284,
+    "access_count": 5,
+    "score": 23.701039272725367,
+    "engagement_score": 88.06666666666666,
+    "avg_time_per_access": 456.8,
+    "learning_state": "struggling"
+  },
+  {
+    "time_spent": 1218,
+    "access_count": 5,
+    "score": 50.905475161605274,
+    "engagement_score": 70.3,
+    "avg_time_per_access": 243.6,
+    "learning_state": "needs_practice"
+  },
+  {
+    "time_spent": 689,
+    "access_count": 3,
+    "score": 57.59512947383259,
+    "engagement_score": 41.483333333333334,
+    "avg_time_per_access": 229.66666666666666,
+    "learning_state": "needs_practice"
+  },
+  {
+    "time_spent": 1766,
+    "access_count": 3,
+    "score": 54.97147820318729,
+    "engagement_score": 59.43333333333334,
+    "avg_time_per_access": 588.6666666666666,
+    "learning_state": "needs_practice"
+  },
+  {
+    "time_spent": 1727,
+    "access_count": 2,
+    "score": 68.5561047645503,
+    "engagement_score": 48.78333333333333,
+    "avg_time_per_access": 863.5,
+    "learning_state": "needs_practice"
+  },
+  {
+    "time_spent": 1772,
+    "access_count": 5,
+    "score": 68.77790354589668,
+    "engagement_score": 79.53333333333333,
+    "avg_time_per_access": 354.4,
+    "learning_state": "needs_practice"
+  },
+  {
+    "time_spent": 2911,
+    "access_count": 8,
+    "score": 33.62259222214043,
+    "engagement_score": 100,
+    "avg_time_per_access": 363.875,
+    "learning_state": "struggling"
+  },
+  {
+    "time_spent": 1786,
+    "access_count": 3,
+    "score": 72.89001964850205,
+    "engagement_score": 59.766666666666666,
+    "avg_time_per_access": 595.3333333333334,
+    "learning_state": "needs_practice"
+  },
+  {
+    "time_spent": 1925,
+    "access_count": 6,
+    "score": 16.22687287724083,
+    "engagement_score": 92.08333333333334,
+    "avg_time_per_access": 320.8333333333333,
+    "learning_state": "struggling"
+  },
+  {
+    "time_spent": 1059,
+    "access_count": 4,
+    "score": 68.82017252754292,
+    "engagement_score": 57.65,
+    "avg_time_per_access": 264.75,
+    "learning_state": "needs_practice"
+  },
+  {
+    "time_spent": 3119,
+    "access_count": 3,
+    "score": 16.401048088474845,
+    "engagement_score": 81.98333333333333,
+    "avg_time_per_access": 1039.6666666666667,
+    "learning_state": "struggling"
+  },
+  {
+    "time_spent": 1360,
+    "access_count": 3,
+    "score": 25.458843708795374,
+    "engagement_score": 52.66666666666667,
+    "avg_time_per_access": 453.3333333333333,
+    "learning_state": "struggling"
+  },
+  {
+    "time_spent": 1590,
+    "access_count": 5,
+    "score": 23.336624033370036,
+    "engagement_score": 76.5,
+    "avg_time_per_access": 318.0,
+    "learning_state": "struggling"
+  },
+  {
+    "time_spent": 3228,
+    "access_count": 8,
+    "score": 29.79613567743109,
+    "engagement_score": 100,
+    "avg_time_per_access": 403.5,
+    "learning_state": "struggling"
+  },
+  {
+    "time_spent": 717,
+    "access_count": 3,
+    "score": 85.8244094759491,
+    "engagement_score": 41.95,
+    "avg_time_per_access": 239.0,
+    "learning_state": "proficient"
+  },
+  {
+    "time_spent": 1393,
+    "access_count": 3,
+    "score": 72.48293135750498,
+    "engagement_score": 53.21666666666667,
+    "avg_time_per_access": 464.3333333333333,
+    "learning_state": "needs_practice"
+  },
+  {
+    "time_spent": 851,
+    "access_count": 1,
+    "score": 82.00142241187487,
+    "engagement_score": 24.183333333333334,
+    "avg_time_per_access": 851.0,
+    "learning_state": "proficient"
+  },
+  {
+    "time_spent": 3149,
+    "access_count": 4,
+    "score": 43.97729834021609,
+    "engagement_score": 92.48333333333333,
+    "avg_time_per_access": 787.25,
+    "learning_state": "struggling"
+  },
+  {
+    "time_spent": 1405,
+    "access_count": 8,
+    "score": 26.112548391552927,
+    "engagement_score": 100,
+    "avg_time_per_access": 175.625,
+    "learning_state": "struggling"
+  },
+  {
+    "time_spent": 1759,
+    "access_count": 6,
+    "score": 22.180966115364377,
+    "engagement_score": 89.31666666666666,
+    "avg_time_per_access": 293.1666666666667,
+    "learning_state": "struggling"
+  },
+  {
+    "time_spent": 315,
+    "access_count": 1,
+    "score": 89.53531500625684,
+    "engagement_score": 15.25,
+    "avg_time_per_access": 315.0,
+    "learning_state": "proficient"
+  },
+  {
+    "time_spent": 3473,
+    "access_count": 5,
+    "score": 14.815187154734566,
+    "engagement_score": 100,
+    "avg_time_per_access": 694.6,
+    "learning_state": "struggling"
+  },
+  {
+    "time_spent": 321,
+    "access_count": 3,
+    "score": 75.23548537479913,
+    "engagement_score": 35.35,
+    "avg_time_per_access": 107.0,
+    "learning_state": "proficient"
+  },
+  {
+    "time_spent": 1083,
+    "access_count": 4,
+    "score": 53.361825271241905,
+    "engagement_score": 58.05,
+    "avg_time_per_access": 270.75,
+    "learning_state": "needs_practice"
+  },
+  {
+    "time_spent": 1514,
+    "access_count": 3,
+    "score": 58.18771535854046,
+    "engagement_score": 55.233333333333334,
+    "avg_time_per_access": 504.6666666666667,
+    "learning_state": "needs_practice"
+  },
+  {
+    "time_spent": 518,
+    "access_count": 2,
+    "score": 96.51914834919691,
+    "engagement_score": 28.633333333333333,
+    "avg_time_per_access": 259.0,
+    "learning_state": "proficient"
+  },
+  {
+    "time_spent": 856,
+    "access_count": 2,
+    "score": 76.18320904727234,
+    "engagement_score": 34.266666666666666,
+    "avg_time_per_access": 428.0,
+    "learning_state": "proficient"
+  },
+  {
+    "time_spent": 2513,
+    "access_count": 5,
+    "score": 40.68112667037753,
+    "engagement_score": 91.88333333333333,
+    "avg_time_per_access": 502.6,
+    "learning_state": "struggling"
+  },
+  {
+    "time_spent": 3098,
+    "access_count": 4,
+    "score": 42.2889951905908,
+    "engagement_score": 91.63333333333333,
+    "avg_time_per_access": 774.5,
+    "learning_state": "struggling"
+  },
+  {
+    "time_spent": 1639,
+    "access_count": 6,
+    "score": 6.009821177782449,
+    "engagement_score": 87.31666666666666,
+    "avg_time_per_access": 273.1666666666667,
+    "learning_state": "struggling"
+  },
+  {
+    "time_spent": 834,
+    "access_count": 4,
+    "score": 65.6356856577894,
+    "engagement_score": 53.9,
+    "avg_time_per_access": 208.5,
+    "learning_state": "needs_practice"
+  },
+  {
+    "time_spent": 1423,
+    "access_count": 3,
+    "score": 28.116740259098005,
+    "engagement_score": 53.71666666666667,
+    "avg_time_per_access": 474.3333333333333,
+    "learning_state": "struggling"
+  },
+  {
+    "time_spent": 1576,
+    "access_count": 2,
+    "score": 65.93945199045213,
+    "engagement_score": 46.266666666666666,
+    "avg_time_per_access": 788.0,
+    "learning_state": "needs_practice"
+  },
+  {
+    "time_spent": 2153,
+    "access_count": 7,
+    "score": 26.475913723429567,
+    "engagement_score": 100,
+    "avg_time_per_access": 307.57142857142856,
+    "learning_state": "struggling"
+  },
+  {
+    "time_spent": 1414,
+    "access_count": 3,
+    "score": 18.1128823990104,
+    "engagement_score": 53.56666666666666,
+    "avg_time_per_access": 471.3333333333333,
+    "learning_state": "struggling"
+  },
+  {
+    "time_spent": 1233,
+    "access_count": 5,
+    "score": 61.63266000197315,
+    "engagement_score": 70.55,
+    "avg_time_per_access": 246.6,
+    "learning_state": "needs_practice"
+  },
+  {
+    "time_spent": 1257,
+    "access_count": 5,
+    "score": 74.74709475134965,
+    "engagement_score": 70.95,
+    "avg_time_per_access": 251.4,
+    "learning_state": "needs_practice"
+  },
+  {
+    "time_spent": 890,
+    "access_count": 3,
+    "score": 75.58011898410346,
+    "engagement_score": 44.833333333333336,
+    "avg_time_per_access": 296.6666666666667,
+    "learning_state": "proficient"
+  },
+  {
+    "time_spent": 674,
+    "access_count": 3,
+    "score": 65.3184336207998,
+    "engagement_score": 41.233333333333334,
+    "avg_time_per_access": 224.66666666666666,
+    "learning_state": "needs_practice"
+  },
+  {
+    "time_spent": 3333,
+    "access_count": 3,
+    "score": 21.365788158023502,
+    "engagement_score": 85.55,
+    "avg_time_per_access": 1111.0,
+    "learning_state": "struggling"
+  },
+  {
+    "time_spent": 3434,
+    "access_count": 3,
+    "score": 22.28080498539342,
+    "engagement_score": 87.23333333333333,
+    "avg_time_per_access": 1144.6666666666667,
+    "learning_state": "struggling"
+  },
+  {
+    "time_spent": 824,
+    "access_count": 5,
+    "score": 59.72790598231197,
+    "engagement_score": 63.733333333333334,
+    "avg_time_per_access": 164.8,
+    "learning_state": "needs_practice"
+  },
+  {
+    "time_spent": 1514,
+    "access_count": 5,
+    "score": 65.45169710460274,
+    "engagement_score": 75.23333333333333,
+    "avg_time_per_access": 302.8,
+    "learning_state": "needs_practice"
+  },
+  {
+    "time_spent": 3475,
+    "access_count": 5,
+    "score": 48.07373310944075,
+    "engagement_score": 100,
+    "avg_time_per_access": 695.0,
+    "learning_state": "struggling"
+  },
+  {
+    "time_spent": 653,
+    "access_count": 4,
+    "score": 73.33061554493949,
+    "engagement_score": 50.88333333333333,
+    "avg_time_per_access": 163.25,
+    "learning_state": "needs_practice"
+  },
+  {
+    "time_spent": 3282,
+    "access_count": 6,
+    "score": 48.95790951287773,
+    "engagement_score": 100,
+    "avg_time_per_access": 547.0,
+    "learning_state": "struggling"
+  },
+  {
+    "time_spent": 2252,
+    "access_count": 6,
+    "score": 46.841066601489565,
+    "engagement_score": 97.53333333333333,
+    "avg_time_per_access": 375.3333333333333,
+    "learning_state": "struggling"
+  },
+  {
+    "time_spent": 1547,
+    "access_count": 3,
+    "score": 63.35152086917937,
+    "engagement_score": 55.78333333333333,
+    "avg_time_per_access": 515.6666666666666,
+    "learning_state": "needs_practice"
+  },
+  {
+    "time_spent": 804,
+    "access_count": 1,
+    "score": 97.45882900135332,
+    "engagement_score": 23.4,
+    "avg_time_per_access": 804.0,
+    "learning_state": "proficient"
+  },
+  {
+    "time_spent": 891,
+    "access_count": 1,
+    "score": 80.06492733964764,
+    "engagement_score": 24.85,
+    "avg_time_per_access": 891.0,
+    "learning_state": "proficient"
+  },
+  {
+    "time_spent": 445,
+    "access_count": 1,
+    "score": 87.64174442208166,
+    "engagement_score": 17.416666666666668,
+    "avg_time_per_access": 445.0,
+    "learning_state": "proficient"
+  },
+  {
+    "time_spent": 485,
+    "access_count": 3,
+    "score": 80.02373089398536,
+    "engagement_score": 38.083333333333336,
+    "avg_time_per_access": 161.66666666666666,
+    "learning_state": "proficient"
+  },
+  {
+    "time_spent": 3200,
+    "access_count": 7,
+    "score": 44.74266361888862,
+    "engagement_score": 100,
+    "avg_time_per_access": 457.14285714285717,
+    "learning_state": "struggling"
+  },
+  {
+    "time_spent": 3225,
+    "access_count": 7,
+    "score": 35.074496284565605,
+    "engagement_score": 100,
+    "avg_time_per_access": 460.7142857142857,
+    "learning_state": "struggling"
+  },
+  {
+    "time_spent": 685,
+    "access_count": 2,
+    "score": 97.15474691949721,
+    "engagement_score": 31.416666666666664,
+    "avg_time_per_access": 342.5,
+    "learning_state": "proficient"
+  },
+  {
+    "time_spent": 1583,
+    "access_count": 7,
+    "score": 8.434015729633238,
+    "engagement_score": 96.38333333333333,
+    "avg_time_per_access": 226.14285714285714,
+    "learning_state": "struggling"
+  },
+  {
+    "time_spent": 861,
+    "access_count": 2,
+    "score": 96.35877928481021,
+    "engagement_score": 34.35,
+    "avg_time_per_access": 430.5,
+    "learning_state": "proficient"
+  },
+  {
+    "time_spent": 647,
+    "access_count": 5,
+    "score": 68.81983423544405,
+    "engagement_score": 60.78333333333333,
+    "avg_time_per_access": 129.4,
+    "learning_state": "needs_practice"
+  },
+  {
+    "time_spent": 608,
+    "access_count": 3,
+    "score": 98.0908593394171,
+    "engagement_score": 40.13333333333333,
+    "avg_time_per_access": 202.66666666666666,
+    "learning_state": "proficient"
+  },
+  {
+    "time_spent": 2815,
+    "access_count": 6,
+    "score": 4.799450933982619,
+    "engagement_score": 100,
+    "avg_time_per_access": 469.1666666666667,
+    "learning_state": "struggling"
+  },
+  {
+    "time_spent": 1780,
+    "access_count": 4,
+    "score": 6.150697836998198,
+    "engagement_score": 69.66666666666667,
+    "avg_time_per_access": 445.0,
+    "learning_state": "struggling"
+  },
+  {
+    "time_spent": 1205,
+    "access_count": 4,
+    "score": 52.89674726867034,
+    "engagement_score": 60.08333333333333,
+    "avg_time_per_access": 301.25,
+    "learning_state": "needs_practice"
+  },
+  {
+    "time_spent": 542,
+    "access_count": 1,
+    "score": 84.04979937599317,
+    "engagement_score": 19.03333333333333,
+    "avg_time_per_access": 542.0,
+    "learning_state": "proficient"
+  },
+  {
+    "time_spent": 1416,
+    "access_count": 5,
+    "score": 5.3590904774776345,
+    "engagement_score": 73.6,
+    "avg_time_per_access": 283.2,
+    "learning_state": "struggling"
+  },
+  {
+    "time_spent": 864,
+    "access_count": 3,
+    "score": 67.61295450906209,
+    "engagement_score": 44.4,
+    "avg_time_per_access": 288.0,
+    "learning_state": "needs_practice"
+  },
+  {
+    "time_spent": 511,
+    "access_count": 1,
+    "score": 86.69018094849962,
+    "engagement_score": 18.516666666666666,
+    "avg_time_per_access": 511.0,
+    "learning_state": "proficient"
+  },
+  {
+    "time_spent": 883,
+    "access_count": 4,
+    "score": 63.587245506923615,
+    "engagement_score": 54.71666666666667,
+    "avg_time_per_access": 220.75,
+    "learning_state": "needs_practice"
+  },
+  {
+    "time_spent": 330,
+    "access_count": 3,
+    "score": 78.52117765561091,
+    "engagement_score": 35.5,
+    "avg_time_per_access": 110.0,
+    "learning_state": "proficient"
+  },
+  {
+    "time_spent": 1694,
+    "access_count": 4,
+    "score": 63.64947122107938,
+    "engagement_score": 68.23333333333333,
+    "avg_time_per_access": 423.5,
+    "learning_state": "needs_practice"
+  },
+  {
+    "time_spent": 1411,
+    "access_count": 2,
+    "score": 60.20603402924243,
+    "engagement_score": 43.516666666666666,
+    "avg_time_per_access": 705.5,
+    "learning_state": "needs_practice"
+  },
+  {
+    "time_spent": 331,
+    "access_count": 2,
+    "score": 86.9223180181838,
+    "engagement_score": 25.516666666666666,
+    "avg_time_per_access": 165.5,
+    "learning_state": "proficient"
+  },
+  {
+    "time_spent": 2707,
+    "access_count": 6,
+    "score": 2.170878933163334,
+    "engagement_score": 100,
+    "avg_time_per_access": 451.1666666666667,
+    "learning_state": "struggling"
+  },
+  {
+    "time_spent": 754,
+    "access_count": 2,
+    "score": 92.05422768405818,
+    "engagement_score": 32.56666666666666,
+    "avg_time_per_access": 377.0,
+    "learning_state": "proficient"
+  },
+  {
+    "time_spent": 1506,
+    "access_count": 6,
+    "score": 22.721240156157275,
+    "engagement_score": 85.1,
+    "avg_time_per_access": 251.0,
+    "learning_state": "struggling"
+  },
+  {
+    "time_spent": 3440,
+    "access_count": 5,
+    "score": 29.593744770792917,
+    "engagement_score": 100,
+    "avg_time_per_access": 688.0,
+    "learning_state": "struggling"
+  },
+  {
+    "time_spent": 643,
+    "access_count": 4,
+    "score": 74.42399004131295,
+    "engagement_score": 50.71666666666667,
+    "avg_time_per_access": 160.75,
+    "learning_state": "needs_practice"
+  },
+  {
+    "time_spent": 685,
+    "access_count": 2,
+    "score": 82.87446704366974,
+    "engagement_score": 31.416666666666664,
+    "avg_time_per_access": 342.5,
+    "learning_state": "proficient"
+  },
+  {
+    "time_spent": 833,
+    "access_count": 3,
+    "score": 97.72970772587564,
+    "engagement_score": 43.88333333333333,
+    "avg_time_per_access": 277.6666666666667,
+    "learning_state": "proficient"
+  },
+  {
+    "time_spent": 1601,
+    "access_count": 5,
+    "score": 53.798326556560575,
+    "engagement_score": 76.68333333333334,
+    "avg_time_per_access": 320.2,
+    "learning_state": "needs_practice"
+  },
+  {
+    "time_spent": 1550,
+    "access_count": 7,
+    "score": 46.73887019137697,
+    "engagement_score": 95.83333333333333,
+    "avg_time_per_access": 221.42857142857142,
+    "learning_state": "struggling"
+  },
+  {
+    "time_spent": 964,
+    "access_count": 5,
+    "score": 56.63568499796596,
+    "engagement_score": 66.06666666666666,
+    "avg_time_per_access": 192.8,
+    "learning_state": "needs_practice"
+  },
+  {
+    "time_spent": 3183,
+    "access_count": 4,
+    "score": 13.39272645051226,
+    "engagement_score": 93.05,
+    "avg_time_per_access": 795.75,
+    "learning_state": "struggling"
+  },
+  {
+    "time_spent": 1005,
+    "access_count": 2,
+    "score": 60.38555956145868,
+    "engagement_score": 36.75,
+    "avg_time_per_access": 502.5,
+    "learning_state": "needs_practice"
+  },
+  {
+    "time_spent": 2185,
+    "access_count": 3,
+    "score": 17.897333484349666,
+    "engagement_score": 66.41666666666666,
+    "avg_time_per_access": 728.3333333333334,
+    "learning_state": "struggling"
+  },
+  {
+    "time_spent": 2897,
+    "access_count": 4,
+    "score": 17.232506033765237,
+    "engagement_score": 88.28333333333333,
+    "avg_time_per_access": 724.25,
+    "learning_state": "struggling"
+  },
+  {
+    "time_spent": 2101,
+    "access_count": 3,
+    "score": 5.519420047362611,
+    "engagement_score": 65.01666666666667,
+    "avg_time_per_access": 700.3333333333334,
+    "learning_state": "struggling"
+  },
+  {
+    "time_spent": 2670,
+    "access_count": 6,
+    "score": 41.398048431432876,
+    "engagement_score": 100,
+    "avg_time_per_access": 445.0,
+    "learning_state": "struggling"
+  },
+  {
+    "time_spent": 478,
+    "access_count": 2,
+    "score": 76.63895151798138,
+    "engagement_score": 27.96666666666667,
+    "avg_time_per_access": 239.0,
+    "learning_state": "proficient"
+  },
+  {
+    "time_spent": 388,
+    "access_count": 3,
+    "score": 89.35568160338302,
+    "engagement_score": 36.46666666666667,
+    "avg_time_per_access": 129.33333333333334,
+    "learning_state": "proficient"
+  },
+  {
+    "time_spent": 2189,
+    "access_count": 4,
+    "score": 10.969652312303902,
+    "engagement_score": 76.48333333333333,
+    "avg_time_per_access": 547.25,
+    "learning_state": "struggling"
+  },
+  {
+    "time_spent": 2312,
+    "access_count": 4,
+    "score": 21.141530825259615,
+    "engagement_score": 78.53333333333333,
+    "avg_time_per_access": 578.0,
+    "learning_state": "struggling"
+  },
+  {
+    "time_spent": 2922,
+    "access_count": 5,
+    "score": 20.981762601516017,
+    "engagement_score": 98.7,
+    "avg_time_per_access": 584.4,
+    "learning_state": "struggling"
+  },
+  {
+    "time_spent": 2867,
+    "access_count": 3,
+    "score": 21.86165054213005,
+    "engagement_score": 77.78333333333333,
+    "avg_time_per_access": 955.6666666666666,
+    "learning_state": "struggling"
+  },
+  {
+    "time_spent": 1289,
+    "access_count": 7,
+    "score": 41.71575546247717,
+    "engagement_score": 91.48333333333333,
+    "avg_time_per_access": 184.14285714285714,
+    "learning_state": "struggling"
+  },
+  {
+    "time_spent": 3086,
+    "access_count": 8,
+    "score": 26.084386185943053,
+    "engagement_score": 100,
+    "avg_time_per_access": 385.75,
+    "learning_state": "struggling"
+  },
+  {
+    "time_spent": 1098,
+    "access_count": 2,
+    "score": 58.619060737896824,
+    "engagement_score": 38.3,
+    "avg_time_per_access": 549.0,
+    "learning_state": "needs_practice"
+  },
+  {
+    "time_spent": 626,
+    "access_count": 3,
+    "score": 78.30563756059034,
+    "engagement_score": 40.43333333333334,
+    "avg_time_per_access": 208.66666666666666,
+    "learning_state": "proficient"
+  },
+  {
+    "time_spent": 654,
+    "access_count": 1,
+    "score": 94.32172164393066,
+    "engagement_score": 20.9,
+    "avg_time_per_access": 654.0,
+    "learning_state": "proficient"
+  },
+  {
+    "time_spent": 3019,
+    "access_count": 6,
+    "score": 21.040859282306368,
+    "engagement_score": 100,
+    "avg_time_per_access": 503.1666666666667,
+    "learning_state": "struggling"
+  },
+  {
+    "time_spent": 682,
+    "access_count": 3,
+    "score": 67.9160252305515,
+    "engagement_score": 41.36666666666667,
+    "avg_time_per_access": 227.33333333333334,
+    "learning_state": "needs_practice"
+  },
+  {
+    "time_spent": 1798,
+    "access_count": 4,
+    "score": 61.36696445313164,
+    "engagement_score": 69.96666666666667,
+    "avg_time_per_access": 449.5,
+    "learning_state": "needs_practice"
+  },
+  {
+    "time_spent": 3037,
+    "access_count": 5,
+    "score": 33.385529699334214,
+    "engagement_score": 100,
+    "avg_time_per_access": 607.4,
+    "learning_state": "struggling"
+  },
+  {
+    "time_spent": 3442,
+    "access_count": 8,
+    "score": 3.732972879877672,
+    "engagement_score": 100,
+    "avg_time_per_access": 430.25,
+    "learning_state": "struggling"
+  },
+  {
+    "time_spent": 428,
+    "access_count": 1,
+    "score": 78.58380814810997,
+    "engagement_score": 17.133333333333333,
+    "avg_time_per_access": 428.0,
+    "learning_state": "proficient"
+  },
+  {
+    "time_spent": 783,
+    "access_count": 2,
+    "score": 68.19567462259445,
+    "engagement_score": 33.05,
+    "avg_time_per_access": 391.5,
+    "learning_state": "needs_practice"
+  },
+  {
+    "time_spent": 2136,
+    "access_count": 8,
+    "score": 28.557191150634775,
+    "engagement_score": 100,
+    "avg_time_per_access": 267.0,
+    "learning_state": "struggling"
+  },
+  {
+    "time_spent": 704,
+    "access_count": 1,
+    "score": 89.61881022100987,
+    "engagement_score": 21.733333333333334,
+    "avg_time_per_access": 704.0,
+    "learning_state": "proficient"
+  },
+  {
+    "time_spent": 837,
+    "access_count": 2,
+    "score": 86.75262638756533,
+    "engagement_score": 33.95,
+    "avg_time_per_access": 418.5,
+    "learning_state": "proficient"
+  },
+  {
+    "time_spent": 1268,
+    "access_count": 2,
+    "score": 70.38055374792864,
+    "engagement_score": 41.13333333333333,
+    "avg_time_per_access": 634.0,
+    "learning_state": "needs_practice"
+  },
+  {
+    "time_spent": 1302,
+    "access_count": 7,
+    "score": 31.761736044985035,
+    "engagement_score": 91.7,
+    "avg_time_per_access": 186.0,
+    "learning_state": "struggling"
+  },
+  {
+    "time_spent": 1180,
+    "access_count": 4,
+    "score": 67.77772450077391,
+    "engagement_score": 59.66666666666667,
+    "avg_time_per_access": 295.0,
+    "learning_state": "needs_practice"
+  },
+  {
+    "time_spent": 1456,
+    "access_count": 4,
+    "score": 74.51322313092838,
+    "engagement_score": 64.26666666666667,
+    "avg_time_per_access": 364.0,
+    "learning_state": "needs_practice"
+  },
+  {
+    "time_spent": 695,
+    "access_count": 5,
+    "score": 52.160119414816684,
+    "engagement_score": 61.583333333333336,
+    "avg_time_per_access": 139.0,
+    "learning_state": "needs_practice"
+  },
+  {
+    "time_spent": 2959,
+    "access_count": 4,
+    "score": 27.775073298397444,
+    "engagement_score": 89.31666666666666,
+    "avg_time_per_access": 739.75,
+    "learning_state": "struggling"
+  },
+  {
+    "time_spent": 1567,
+    "access_count": 2,
+    "score": 50.666402321040636,
+    "engagement_score": 46.11666666666667,
+    "avg_time_per_access": 783.5,
+    "learning_state": "needs_practice"
+  },
+  {
+    "time_spent": 735,
+    "access_count": 3,
+    "score": 98.78130060123542,
+    "engagement_score": 42.25,
+    "avg_time_per_access": 245.0,
+    "learning_state": "proficient"
+  },
+  {
+    "time_spent": 3381,
+    "access_count": 7,
+    "score": 45.95459870778888,
+    "engagement_score": 100,
+    "avg_time_per_access": 483.0,
+    "learning_state": "struggling"
+  },
+  {
+    "time_spent": 1433,
+    "access_count": 5,
+    "score": 73.567279447643,
+    "engagement_score": 73.88333333333333,
+    "avg_time_per_access": 286.6,
+    "learning_state": "needs_practice"
+  },
+  {
+    "time_spent": 609,
+    "access_count": 2,
+    "score": 80.99990910727989,
+    "engagement_score": 30.15,
+    "avg_time_per_access": 304.5,
+    "learning_state": "proficient"
+  },
+  {
+    "time_spent": 1047,
+    "access_count": 2,
+    "score": 54.99830508866423,
+    "engagement_score": 37.45,
+    "avg_time_per_access": 523.5,
+    "learning_state": "needs_practice"
+  },
+  {
+    "time_spent": 1144,
+    "access_count": 3,
+    "score": 66.00015697358623,
+    "engagement_score": 49.06666666666666,
+    "avg_time_per_access": 381.3333333333333,
+    "learning_state": "needs_practice"
+  },
+  {
+    "time_spent": 612,
+    "access_count": 3,
+    "score": 66.1024810532573,
+    "engagement_score": 40.2,
+    "avg_time_per_access": 204.0,
+    "learning_state": "needs_practice"
+  },
+  {
+    "time_spent": 3587,
+    "access_count": 6,
+    "score": 22.69729430992362,
+    "engagement_score": 100,
+    "avg_time_per_access": 597.8333333333334,
+    "learning_state": "struggling"
+  },
+  {
+    "time_spent": 2276,
+    "access_count": 7,
+    "score": 16.011358778046734,
+    "engagement_score": 100,
+    "avg_time_per_access": 325.14285714285717,
+    "learning_state": "struggling"
+  },
+  {
+    "time_spent": 399,
+    "access_count": 1,
+    "score": 89.0046782451566,
+    "engagement_score": 16.65,
+    "avg_time_per_access": 399.0,
+    "learning_state": "proficient"
+  },
+  {
+    "time_spent": 1633,
+    "access_count": 3,
+    "score": 51.87518391575908,
+    "engagement_score": 57.21666666666667,
+    "avg_time_per_access": 544.3333333333334,
+    "learning_state": "needs_practice"
+  },
+  {
+    "time_spent": 1510,
+    "access_count": 2,
+    "score": 65.21392711904468,
+    "engagement_score": 45.16666666666667,
+    "avg_time_per_access": 755.0,
+    "learning_state": "needs_practice"
+  },
+  {
+    "time_spent": 2048,
+    "access_count": 8,
+    "score": 48.44318722235015,
+    "engagement_score": 100,
+    "avg_time_per_access": 256.0,
+    "learning_state": "struggling"
+  },
+  {
+    "time_spent": 2300,
+    "access_count": 7,
+    "score": 3.1345927560502695,
+    "engagement_score": 100,
+    "avg_time_per_access": 328.57142857142856,
+    "learning_state": "struggling"
+  },
+  {
+    "time_spent": 2423,
+    "access_count": 4,
+    "score": 17.435347653252254,
+    "engagement_score": 80.38333333333333,
+    "avg_time_per_access": 605.75,
+    "learning_state": "struggling"
+  },
+  {
+    "time_spent": 899,
+    "access_count": 2,
+    "score": 87.04785169914125,
+    "engagement_score": 34.983333333333334,
+    "avg_time_per_access": 449.5,
+    "learning_state": "proficient"
+  },
+  {
+    "time_spent": 659,
+    "access_count": 1,
+    "score": 92.96424022022235,
+    "engagement_score": 20.983333333333334,
+    "avg_time_per_access": 659.0,
+    "learning_state": "proficient"
+  },
+  {
+    "time_spent": 2907,
+    "access_count": 4,
+    "score": 9.105733310921526,
+    "engagement_score": 88.45,
+    "avg_time_per_access": 726.75,
+    "learning_state": "struggling"
+  },
+  {
+    "time_spent": 1774,
+    "access_count": 5,
+    "score": 22.447463443784798,
+    "engagement_score": 79.56666666666666,
+    "avg_time_per_access": 354.8,
+    "learning_state": "struggling"
+  },
+  {
+    "time_spent": 1943,
+    "access_count": 3,
+    "score": 42.45813930216919,
+    "engagement_score": 62.38333333333333,
+    "avg_time_per_access": 647.6666666666666,
+    "learning_state": "struggling"
+  },
+  {
+    "time_spent": 3405,
+    "access_count": 7,
+    "score": 9.960631958546863,
+    "engagement_score": 100,
+    "avg_time_per_access": 486.42857142857144,
+    "learning_state": "struggling"
+  },
+  {
+    "time_spent": 1677,
+    "access_count": 3,
+    "score": 67.9956328450065,
+    "engagement_score": 57.95,
+    "avg_time_per_access": 559.0,
+    "learning_state": "needs_practice"
+  },
+  {
+    "time_spent": 1387,
+    "access_count": 7,
+    "score": 23.881411175281897,
+    "engagement_score": 93.11666666666667,
+    "avg_time_per_access": 198.14285714285714,
+    "learning_state": "struggling"
+  },
+  {
+    "time_spent": 620,
+    "access_count": 2,
+    "score": 54.53847582832986,
+    "engagement_score": 30.333333333333336,
+    "avg_time_per_access": 310.0,
+    "learning_state": "needs_practice"
+  },
+  {
+    "time_spent": 823,
+    "access_count": 5,
+    "score": 60.271675009911576,
+    "engagement_score": 63.71666666666667,
+    "avg_time_per_access": 164.6,
+    "learning_state": "needs_practice"
+  },
+  {
+    "time_spent": 1512,
+    "access_count": 4,
+    "score": 23.366487219224773,
+    "engagement_score": 65.2,
+    "avg_time_per_access": 378.0,
+    "learning_state": "struggling"
+  },
+  {
+    "time_spent": 2436,
+    "access_count": 8,
+    "score": 10.642274403889761,
+    "engagement_score": 100,
+    "avg_time_per_access": 304.5,
+    "learning_state": "struggling"
+  },
+  {
+    "time_spent": 1428,
+    "access_count": 6,
+    "score": 24.346010524847294,
+    "engagement_score": 83.8,
+    "avg_time_per_access": 238.0,
+    "learning_state": "struggling"
+  },
+  {
+    "time_spent": 1783,
+    "access_count": 7,
+    "score": 46.585478579758366,
+    "engagement_score": 99.71666666666667,
+    "avg_time_per_access": 254.71428571428572,
+    "learning_state": "struggling"
+  },
+  {
+    "time_spent": 733,
+    "access_count": 5,
+    "score": 67.34464944866268,
+    "engagement_score": 62.21666666666667,
+    "avg_time_per_access": 146.6,
+    "learning_state": "needs_practice"
+  },
+  {
+    "time_spent": 2410,
+    "access_count": 3,
+    "score": 34.26308274014842,
+    "engagement_score": 70.16666666666666,
+    "avg_time_per_access": 803.3333333333334,
+    "learning_state": "struggling"
+  },
+  {
+    "time_spent": 1451,
+    "access_count": 4,
+    "score": 59.168060102439355,
+    "engagement_score": 64.18333333333334,
+    "avg_time_per_access": 362.75,
+    "learning_state": "needs_practice"
+  },
+  {
+    "time_spent": 470,
+    "access_count": 1,
+    "score": 93.11860998170776,
+    "engagement_score": 17.833333333333332,
+    "avg_time_per_access": 470.0,
+    "learning_state": "proficient"
+  },
+  {
+    "time_spent": 1896,
+    "access_count": 5,
+    "score": 6.8419826264681465,
+    "engagement_score": 81.6,
+    "avg_time_per_access": 379.2,
+    "learning_state": "struggling"
+  },
+  {
+    "time_spent": 1787,
+    "access_count": 5,
+    "score": 35.87409808513169,
+    "engagement_score": 79.78333333333333,
+    "avg_time_per_access": 357.4,
+    "learning_state": "struggling"
+  },
+  {
+    "time_spent": 314,
+    "access_count": 3,
+    "score": 94.49761813062089,
+    "engagement_score": 35.233333333333334,
+    "avg_time_per_access": 104.66666666666667,
+    "learning_state": "proficient"
+  },
+  {
+    "time_spent": 1768,
+    "access_count": 7,
+    "score": 27.2701194439921,
+    "engagement_score": 99.46666666666667,
+    "avg_time_per_access": 252.57142857142858,
+    "learning_state": "struggling"
+  },
+  {
+    "time_spent": 2668,
+    "access_count": 4,
+    "score": 41.75013912164973,
+    "engagement_score": 84.46666666666667,
+    "avg_time_per_access": 667.0,
+    "learning_state": "struggling"
+  },
+  {
+    "time_spent": 2821,
+    "access_count": 7,
+    "score": 13.078279745789834,
+    "engagement_score": 100,
+    "avg_time_per_access": 403.0,
+    "learning_state": "struggling"
+  },
+  {
+    "time_spent": 2738,
+    "access_count": 3,
+    "score": 49.094533546252265,
+    "engagement_score": 75.63333333333333,
+    "avg_time_per_access": 912.6666666666666,
+    "learning_state": "struggling"
+  },
+  {
+    "time_spent": 413,
+    "access_count": 1,
+    "score": 90.25663868353121,
+    "engagement_score": 16.883333333333333,
+    "avg_time_per_access": 413.0,
+    "learning_state": "proficient"
+  },
+  {
+    "time_spent": 2286,
+    "access_count": 4,
+    "score": 35.69864043257125,
+    "engagement_score": 78.1,
+    "avg_time_per_access": 571.5,
+    "learning_state": "struggling"
+  },
+  {
+    "time_spent": 391,
+    "access_count": 2,
+    "score": 99.94621879068137,
+    "engagement_score": 26.516666666666666,
+    "avg_time_per_access": 195.5,
+    "learning_state": "proficient"
+  },
+  {
+    "time_spent": 1389,
+    "access_count": 3,
+    "score": 42.363146691013476,
+    "engagement_score": 53.15,
+    "avg_time_per_access": 463.0,
+    "learning_state": "struggling"
+  },
+  {
+    "time_spent": 1350,
+    "access_count": 6,
+    "score": 36.195250313805516,
+    "engagement_score": 82.5,
+    "avg_time_per_access": 225.0,
+    "learning_state": "struggling"
+  },
+  {
+    "time_spent": 1238,
+    "access_count": 4,
+    "score": 59.812539271945354,
+    "engagement_score": 60.63333333333333,
+    "avg_time_per_access": 309.5,
+    "learning_state": "needs_practice"
+  },
+  {
+    "time_spent": 1178,
+    "access_count": 4,
+    "score": 57.66280594176965,
+    "engagement_score": 59.63333333333333,
+    "avg_time_per_access": 294.5,
+    "learning_state": "needs_practice"
+  },
+  {
+    "time_spent": 399,
+    "access_count": 3,
+    "score": 78.08682101346137,
+    "engagement_score": 36.65,
+    "avg_time_per_access": 133.0,
+    "learning_state": "proficient"
+  },
+  {
+    "time_spent": 1284,
+    "access_count": 3,
+    "score": 70.86992662686762,
+    "engagement_score": 51.4,
+    "avg_time_per_access": 428.0,
+    "learning_state": "needs_practice"
+  },
+  {
+    "time_spent": 1602,
+    "access_count": 4,
+    "score": 51.725154573355056,
+    "engagement_score": 66.7,
+    "avg_time_per_access": 400.5,
+    "learning_state": "needs_practice"
+  },
+  {
+    "time_spent": 364,
+    "access_count": 1,
+    "score": 91.28105396667212,
+    "engagement_score": 16.066666666666666,
+    "avg_time_per_access": 364.0,
+    "learning_state": "proficient"
+  },
+  {
+    "time_spent": 359,
+    "access_count": 3,
+    "score": 97.37755187360563,
+    "engagement_score": 35.983333333333334,
+    "avg_time_per_access": 119.66666666666667,
+    "learning_state": "proficient"
+  },
+  {
+    "time_spent": 368,
+    "access_count": 2,
+    "score": 96.80165631055003,
+    "engagement_score": 26.133333333333333,
+    "avg_time_per_access": 184.0,
+    "learning_state": "proficient"
+  },
+  {
+    "time_spent": 2350,
+    "access_count": 6,
+    "score": 35.53351255233055,
+    "engagement_score": 99.16666666666666,
+    "avg_time_per_access": 391.6666666666667,
+    "learning_state": "struggling"
+  },
+  {
+    "time_spent": 2596,
+    "access_count": 5,
+    "score": 16.901517695525424,
+    "engagement_score": 93.26666666666667,
+    "avg_time_per_access": 519.2,
+    "learning_state": "struggling"
+  },
+  {
+    "time_spent": 478,
+    "access_count": 1,
+    "score": 88.0737268514873,
+    "engagement_score": 17.96666666666667,
+    "avg_time_per_access": 478.0,
+    "learning_state": "proficient"
+  },
+  {
+    "time_spent": 791,
+    "access_count": 1,
+    "score": 80.49697825824882,
+    "engagement_score": 23.183333333333334,
+    "avg_time_per_access": 791.0,
+    "learning_state": "proficient"
+  },
+  {
+    "time_spent": 567,
+    "access_count": 2,
+    "score": 99.68788259682434,
+    "engagement_score": 29.45,
+    "avg_time_per_access": 283.5,
+    "learning_state": "proficient"
+  },
+  {
+    "time_spent": 2855,
+    "access_count": 3,
+    "score": 13.73216769964115,
+    "engagement_score": 77.58333333333334,
+    "avg_time_per_access": 951.6666666666666,
+    "learning_state": "struggling"
+  },
+  {
+    "time_spent": 413,
+    "access_count": 2,
+    "score": 96.91258723241334,
+    "engagement_score": 26.883333333333333,
+    "avg_time_per_access": 206.5,
+    "learning_state": "proficient"
+  },
+  {
+    "time_spent": 3210,
+    "access_count": 6,
+    "score": 34.55898887627347,
+    "engagement_score": 100,
+    "avg_time_per_access": 535.0,
+    "learning_state": "struggling"
+  },
+  {
+    "time_spent": 1578,
+    "access_count": 2,
+    "score": 61.027360767462504,
+    "engagement_score": 46.3,
+    "avg_time_per_access": 789.0,
+    "learning_state": "needs_practice"
+  },
+  {
+    "time_spent": 563,
+    "access_count": 2,
+    "score": 92.55074370852189,
+    "engagement_score": 29.383333333333333,
+    "avg_time_per_access": 281.5,
+    "learning_state": "proficient"
+  },
+  {
+    "time_spent": 2539,
+    "access_count": 3,
+    "score": 24.485265808179157,
+    "engagement_score": 72.31666666666666,
+    "avg_time_per_access": 846.3333333333334,
+    "learning_state": "struggling"
+  },
+  {
+    "time_spent": 1968,
+    "access_count": 4,
+    "score": 7.999260275407716,
+    "engagement_score": 72.8,
+    "avg_time_per_access": 492.0,
+    "learning_state": "struggling"
+  },
+  {
+    "time_spent": 893,
+    "access_count": 2,
+    "score": 70.98297776925826,
+    "engagement_score": 34.88333333333333,
+    "avg_time_per_access": 446.5,
+    "learning_state": "needs_practice"
+  },
+  {
+    "time_spent": 501,
+    "access_count": 1,
+    "score": 91.69988264663722,
+    "engagement_score": 18.35,
+    "avg_time_per_access": 501.0,
+    "learning_state": "proficient"
+  },
+  {
+    "time_spent": 2776,
+    "access_count": 8,
+    "score": 7.486629961857538,
+    "engagement_score": 100,
+    "avg_time_per_access": 347.0,
+    "learning_state": "struggling"
+  },
+  {
+    "time_spent": 580,
+    "access_count": 1,
+    "score": 87.27185618090148,
+    "engagement_score": 19.666666666666664,
+    "avg_time_per_access": 580.0,
+    "learning_state": "proficient"
+  },
+  {
+    "time_spent": 1835,
+    "access_count": 3,
+    "score": 37.57963470997762,
+    "engagement_score": 60.58333333333333,
+    "avg_time_per_access": 611.6666666666666,
+    "learning_state": "struggling"
+  },
+  {
+    "time_spent": 443,
+    "access_count": 3,
+    "score": 94.00332726125737,
+    "engagement_score": 37.38333333333333,
+    "avg_time_per_access": 147.66666666666666,
+    "learning_state": "proficient"
+  },
+  {
+    "time_spent": 344,
+    "access_count": 1,
+    "score": 75.54218625049944,
+    "engagement_score": 15.733333333333334,
+    "avg_time_per_access": 344.0,
+    "learning_state": "proficient"
+  },
+  {
+    "time_spent": 1359,
+    "access_count": 5,
+    "score": 59.30205164616913,
+    "engagement_score": 72.65,
+    "avg_time_per_access": 271.8,
+    "learning_state": "needs_practice"
+  },
+  {
+    "time_spent": 1212,
+    "access_count": 8,
+    "score": 13.124434381578142,
+    "engagement_score": 100,
+    "avg_time_per_access": 151.5,
+    "learning_state": "struggling"
+  },
+  {
+    "time_spent": 457,
+    "access_count": 3,
+    "score": 82.45728556076669,
+    "engagement_score": 37.61666666666667,
+    "avg_time_per_access": 152.33333333333334,
+    "learning_state": "proficient"
+  },
+  {
+    "time_spent": 1637,
+    "access_count": 4,
+    "score": 46.20382822974596,
+    "engagement_score": 67.28333333333333,
+    "avg_time_per_access": 409.25,
+    "learning_state": "struggling"
+  },
+  {
+    "time_spent": 1161,
+    "access_count": 4,
+    "score": 56.949122807222174,
+    "engagement_score": 59.35,
+    "avg_time_per_access": 290.25,
+    "learning_state": "needs_practice"
+  },
+  {
+    "time_spent": 627,
+    "access_count": 3,
+    "score": 58.50234681593314,
+    "engagement_score": 40.45,
+    "avg_time_per_access": 209.0,
+    "learning_state": "needs_practice"
+  },
+  {
+    "time_spent": 2869,
+    "access_count": 7,
+    "score": 0.15795409221327494,
+    "engagement_score": 100,
+    "avg_time_per_access": 409.85714285714283,
+    "learning_state": "struggling"
+  },
+  {
+    "time_spent": 3057,
+    "access_count": 3,
+    "score": 20.182157573500405,
+    "engagement_score": 80.95,
+    "avg_time_per_access": 1019.0,
+    "learning_state": "struggling"
+  },
+  {
+    "time_spent": 1010,
+    "access_count": 5,
+    "score": 73.82484966004812,
+    "engagement_score": 66.83333333333333,
+    "avg_time_per_access": 202.0,
+    "learning_state": "needs_practice"
+  },
+  {
+    "time_spent": 739,
+    "access_count": 2,
+    "score": 85.24117735170998,
+    "engagement_score": 32.31666666666666,
+    "avg_time_per_access": 369.5,
+    "learning_state": "proficient"
+  },
+  {
+    "time_spent": 1496,
+    "access_count": 3,
+    "score": 69.10449824566092,
+    "engagement_score": 54.93333333333334,
+    "avg_time_per_access": 498.6666666666667,
+    "learning_state": "needs_practice"
+  },
+  {
+    "time_spent": 482,
+    "access_count": 2,
+    "score": 90.89154602579788,
+    "engagement_score": 28.03333333333333,
+    "avg_time_per_access": 241.0,
+    "learning_state": "proficient"
+  },
+  {
+    "time_spent": 2949,
+    "access_count": 7,
+    "score": 16.566917018382867,
+    "engagement_score": 100,
+    "avg_time_per_access": 421.2857142857143,
+    "learning_state": "struggling"
+  },
+  {
+    "time_spent": 1168,
+    "access_count": 4,
+    "score": 59.13061174152332,
+    "engagement_score": 59.46666666666667,
+    "avg_time_per_access": 292.0,
+    "learning_state": "needs_practice"
+  },
+  {
+    "time_spent": 3058,
+    "access_count": 7,
+    "score": 46.50500399372659,
+    "engagement_score": 100,
+    "avg_time_per_access": 436.85714285714283,
+    "learning_state": "struggling"
+  },
+  {
+    "time_spent": 2044,
+    "access_count": 7,
+    "score": 2.652651268716699,
+    "engagement_score": 100,
+    "avg_time_per_access": 292.0,
+    "learning_state": "struggling"
+  },
+  {
+    "time_spent": 1630,
+    "access_count": 3,
+    "score": 52.60125773294554,
+    "engagement_score": 57.16666666666667,
+    "avg_time_per_access": 543.3333333333334,
+    "learning_state": "needs_practice"
+  },
+  {
+    "time_spent": 433,
+    "access_count": 1,
+    "score": 84.47257996137289,
+    "engagement_score": 17.21666666666667,
+    "avg_time_per_access": 433.0,
+    "learning_state": "proficient"
+  },
+  {
+    "time_spent": 3463,
+    "access_count": 6,
+    "score": 37.75861646410669,
+    "engagement_score": 100,
+    "avg_time_per_access": 577.1666666666666,
+    "learning_state": "struggling"
+  },
+  {
+    "time_spent": 3080,
+    "access_count": 8,
+    "score": 20.469033095498624,
+    "engagement_score": 100,
+    "avg_time_per_access": 385.0,
+    "learning_state": "struggling"
+  },
+  {
+    "time_spent": 2430,
+    "access_count": 6,
+    "score": 45.60188218732581,
+    "engagement_score": 100,
+    "avg_time_per_access": 405.0,
+    "learning_state": "struggling"
+  },
+  {
+    "time_spent": 1429,
+    "access_count": 3,
+    "score": 52.670289525781534,
+    "engagement_score": 53.81666666666666,
+    "avg_time_per_access": 476.3333333333333,
+    "learning_state": "needs_practice"
+  },
+  {
+    "time_spent": 2689,
+    "access_count": 5,
+    "score": 6.518688297560393,
+    "engagement_score": 94.81666666666666,
+    "avg_time_per_access": 537.8,
+    "learning_state": "struggling"
+  },
+  {
+    "time_spent": 407,
+    "access_count": 1,
+    "score": 94.9244073728676,
+    "engagement_score": 16.78333333333333,
+    "avg_time_per_access": 407.0,
+    "learning_state": "proficient"
+  },
+  {
+    "time_spent": 2968,
+    "access_count": 5,
+    "score": 27.256671708986534,
+    "engagement_score": 99.46666666666667,
+    "avg_time_per_access": 593.6,
+    "learning_state": "struggling"
+  },
+  {
+    "time_spent": 2142,
+    "access_count": 6,
+    "score": 40.414126759461375,
+    "engagement_score": 95.7,
+    "avg_time_per_access": 357.0,
+    "learning_state": "struggling"
+  },
+  {
+    "time_spent": 2543,
+    "access_count": 8,
+    "score": 11.671867404906,
+    "engagement_score": 100,
+    "avg_time_per_access": 317.875,
+    "learning_state": "struggling"
+  },
+  {
+    "time_spent": 2752,
+    "access_count": 7,
+    "score": 12.41743747373949,
+    "engagement_score": 100,
+    "avg_time_per_access": 393.14285714285717,
+    "learning_state": "struggling"
+  },
+  {
+    "time_spent": 823,
+    "access_count": 3,
+    "score": 59.61070446105525,
+    "engagement_score": 43.71666666666667,
+    "avg_time_per_access": 274.3333333333333,
+    "learning_state": "needs_practice"
+  },
+  {
+    "time_spent": 699,
+    "access_count": 2,
+    "score": 53.39033152913982,
+    "engagement_score": 31.65,
+    "avg_time_per_access": 349.5,
+    "learning_state": "needs_practice"
+  },
+  {
+    "time_spent": 770,
+    "access_count": 3,
+    "score": 86.98314347488073,
+    "engagement_score": 42.833333333333336,
+    "avg_time_per_access": 256.6666666666667,
+    "learning_state": "proficient"
+  },
+  {
+    "time_spent": 326,
+    "access_count": 2,
+    "score": 92.07251812832338,
+    "engagement_score": 25.433333333333334,
+    "avg_time_per_access": 163.0,
+    "learning_state": "proficient"
+  },
+  {
+    "time_spent": 2418,
+    "access_count": 8,
+    "score": 28.632480927989057,
+    "engagement_score": 100,
+    "avg_time_per_access": 302.25,
+    "learning_state": "struggling"
+  },
+  {
+    "time_spent": 336,
+    "access_count": 3,
+    "score": 75.3806272205887,
+    "engagement_score": 35.6,
+    "avg_time_per_access": 112.0,
+    "learning_state": "proficient"
+  },
+  {
+    "time_spent": 2602,
+    "access_count": 5,
+    "score": 31.034390395949686,
+    "engagement_score": 93.36666666666667,
+    "avg_time_per_access": 520.4,
+    "learning_state": "struggling"
+  },
+  {
+    "time_spent": 1186,
+    "access_count": 2,
+    "score": 54.2627501380911,
+    "engagement_score": 39.766666666666666,
+    "avg_time_per_access": 593.0,
+    "learning_state": "needs_practice"
+  },
+  {
+    "time_spent": 685,
+    "access_count": 1,
+    "score": 92.33305933295651,
+    "engagement_score": 21.416666666666664,
+    "avg_time_per_access": 685.0,
+    "learning_state": "proficient"
+  },
+  {
+    "time_spent": 1732,
+    "access_count": 6,
+    "score": 34.11081846358675,
+    "engagement_score": 88.86666666666667,
+    "avg_time_per_access": 288.6666666666667,
+    "learning_state": "struggling"
+  },
+  {
+    "time_spent": 1599,
+    "access_count": 5,
+    "score": 21.232718125595063,
+    "engagement_score": 76.65,
+    "avg_time_per_access": 319.8,
+    "learning_state": "struggling"
+  },
+  {
+    "time_spent": 2338,
+    "access_count": 7,
+    "score": 17.60204474311343,
+    "engagement_score": 100,
+    "avg_time_per_access": 334.0,
+    "learning_state": "struggling"
+  },
+  {
+    "time_spent": 3287,
+    "access_count": 5,
+    "score": 36.95853020679753,
+    "engagement_score": 100,
+    "avg_time_per_access": 657.4,
+    "learning_state": "struggling"
+  },
+  {
+    "time_spent": 715,
+    "access_count": 3,
+    "score": 95.61998293827912,
+    "engagement_score": 41.916666666666664,
+    "avg_time_per_access": 238.33333333333334,
+    "learning_state": "proficient"
+  },
+  {
+    "time_spent": 351,
+    "access_count": 3,
+    "score": 92.35635207714112,
+    "engagement_score": 35.85,
+    "avg_time_per_access": 117.0,
+    "learning_state": "proficient"
+  },
+  {
+    "time_spent": 1696,
+    "access_count": 5,
+    "score": 70.59314816080578,
+    "engagement_score": 78.26666666666667,
+    "avg_time_per_access": 339.2,
+    "learning_state": "needs_practice"
+  },
+  {
+    "time_spent": 310,
+    "access_count": 3,
+    "score": 80.36929675761517,
+    "engagement_score": 35.166666666666664,
+    "avg_time_per_access": 103.33333333333333,
+    "learning_state": "proficient"
+  },
+  {
+    "time_spent": 1359,
+    "access_count": 6,
+    "score": 39.17613231043023,
+    "engagement_score": 82.65,
+    "avg_time_per_access": 226.5,
+    "learning_state": "struggling"
+  },
+  {
+    "time_spent": 391,
+    "access_count": 2,
+    "score": 81.2890588160245,
+    "engagement_score": 26.516666666666666,
+    "avg_time_per_access": 195.5,
+    "learning_state": "proficient"
+  },
+  {
+    "time_spent": 1082,
+    "access_count": 3,
+    "score": 51.20014567490148,
+    "engagement_score": 48.03333333333333,
+    "avg_time_per_access": 360.6666666666667,
+    "learning_state": "needs_practice"
+  },
+  {
+    "time_spent": 2985,
+    "access_count": 8,
+    "score": 8.198322952545533,
+    "engagement_score": 100,
+    "avg_time_per_access": 373.125,
+    "learning_state": "struggling"
+  },
+  {
+    "time_spent": 1222,
+    "access_count": 3,
+    "score": 56.670559698828626,
+    "engagement_score": 50.36666666666667,
+    "avg_time_per_access": 407.3333333333333,
+    "learning_state": "needs_practice"
+  },
+  {
+    "time_spent": 1266,
+    "access_count": 3,
+    "score": 59.611155636995484,
+    "engagement_score": 51.1,
+    "avg_time_per_access": 422.0,
+    "learning_state": "needs_practice"
+  },
+  {
+    "time_spent": 1416,
+    "access_count": 6,
+    "score": 47.038950186724826,
+    "engagement_score": 83.6,
+    "avg_time_per_access": 236.0,
+    "learning_state": "struggling"
+  },
+  {
+    "time_spent": 3331,
+    "access_count": 7,
+    "score": 41.69018993882734,
+    "engagement_score": 100,
+    "avg_time_per_access": 475.85714285714283,
+    "learning_state": "struggling"
+  },
+  {
+    "time_spent": 382,
+    "access_count": 1,
+    "score": 81.72051447428765,
+    "engagement_score": 16.366666666666667,
+    "avg_time_per_access": 382.0,
+    "learning_state": "proficient"
+  },
+  {
+    "time_spent": 710,
+    "access_count": 5,
+    "score": 66.78764726655297,
+    "engagement_score": 61.833333333333336,
+    "avg_time_per_access": 142.0,
+    "learning_state": "needs_practice"
+  },
+  {
+    "time_spent": 3537,
+    "access_count": 3,
+    "score": 26.558300083230748,
+    "engagement_score": 88.95,
+    "avg_time_per_access": 1179.0,
+    "learning_state": "struggling"
+  },
+  {
+    "time_spent": 588,
+    "access_count": 1,
+    "score": 84.29774617230292,
+    "engagement_score": 19.8,
+    "avg_time_per_access": 588.0,
+    "learning_state": "proficient"
+  },
+  {
+    "time_spent": 1290,
+    "access_count": 2,
+    "score": 62.19185010354872,
+    "engagement_score": 41.5,
+    "avg_time_per_access": 645.0,
+    "learning_state": "needs_practice"
+  },
+  {
+    "time_spent": 604,
+    "access_count": 2,
+    "score": 64.79972207678388,
+    "engagement_score": 30.066666666666666,
+    "avg_time_per_access": 302.0,
+    "learning_state": "needs_practice"
+  },
+  {
+    "time_spent": 787,
+    "access_count": 1,
+    "score": 84.82149497762197,
+    "engagement_score": 23.116666666666667,
+    "avg_time_per_access": 787.0,
+    "learning_state": "proficient"
+  },
+  {
+    "time_spent": 780,
+    "access_count": 1,
+    "score": 89.74661995995488,
+    "engagement_score": 23.0,
+    "avg_time_per_access": 780.0,
+    "learning_state": "proficient"
+  },
+  {
+    "time_spent": 1538,
+    "access_count": 3,
+    "score": 50.35276570972261,
+    "engagement_score": 55.63333333333333,
+    "avg_time_per_access": 512.6666666666666,
+    "learning_state": "needs_practice"
+  },
+  {
+    "time_spent": 2507,
+    "access_count": 8,
+    "score": 18.102362269839755,
+    "engagement_score": 100,
+    "avg_time_per_access": 313.375,
+    "learning_state": "struggling"
+  },
+  {
+    "time_spent": 2645,
+    "access_count": 5,
+    "score": 9.817785428024772,
+    "engagement_score": 94.08333333333334,
+    "avg_time_per_access": 529.0,
+    "learning_state": "struggling"
+  },
+  {
+    "time_spent": 1067,
+    "access_count": 3,
+    "score": 65.42515653926336,
+    "engagement_score": 47.78333333333333,
+    "avg_time_per_access": 355.6666666666667,
+    "learning_state": "needs_practice"
+  },
+  {
+    "time_spent": 2237,
+    "access_count": 6,
+    "score": 44.169224636742065,
+    "engagement_score": 97.28333333333333,
+    "avg_time_per_access": 372.8333333333333,
+    "learning_state": "struggling"
+  },
+  {
+    "time_spent": 2038,
+    "access_count": 3,
+    "score": 25.72342909809088,
+    "engagement_score": 63.96666666666667,
+    "avg_time_per_access": 679.3333333333334,
+    "learning_state": "struggling"
+  },
+  {
+    "time_spent": 3218,
+    "access_count": 4,
+    "score": 43.836481252760585,
+    "engagement_score": 93.63333333333333,
+    "avg_time_per_access": 804.5,
+    "learning_state": "struggling"
+  },
+  {
+    "time_spent": 648,
+    "access_count": 2,
+    "score": 92.9475707463726,
+    "engagement_score": 30.8,
+    "avg_time_per_access": 324.0,
+    "learning_state": "proficient"
+  },
+  {
+    "time_spent": 2059,
+    "access_count": 3,
+    "score": 18.70821508535788,
+    "engagement_score": 64.31666666666666,
+    "avg_time_per_access": 686.3333333333334,
+    "learning_state": "struggling"
+  },
+  {
+    "time_spent": 1626,
+    "access_count": 8,
+    "score": 21.960492918518405,
+    "engagement_score": 100,
+    "avg_time_per_access": 203.25,
+    "learning_state": "struggling"
+  },
+  {
+    "time_spent": 3387,
+    "access_count": 8,
+    "score": 2.5268573849850484,
+    "engagement_score": 100,
+    "avg_time_per_access": 423.375,
+    "learning_state": "struggling"
+  },
+  {
+    "time_spent": 3142,
+    "access_count": 8,
+    "score": 42.17449048377908,
+    "engagement_score": 100,
+    "avg_time_per_access": 392.75,
+    "learning_state": "struggling"
+  },
+  {
+    "time_spent": 2375,
+    "access_count": 6,
+    "score": 47.31690240967389,
+    "engagement_score": 99.58333333333334,
+    "avg_time_per_access": 395.8333333333333,
+    "learning_state": "struggling"
+  },
+  {
+    "time_spent": 591,
+    "access_count": 2,
+    "score": 95.64029251270887,
+    "engagement_score": 29.85,
+    "avg_time_per_access": 295.5,
+    "learning_state": "proficient"
+  },
+  {
+    "time_spent": 3371,
+    "access_count": 5,
+    "score": 44.47299197078546,
+    "engagement_score": 100,
+    "avg_time_per_access": 674.2,
+    "learning_state": "struggling"
+  },
+  {
+    "time_spent": 2835,
+    "access_count": 4,
+    "score": 29.84922960333106,
+    "engagement_score": 87.25,
+    "avg_time_per_access": 708.75,
+    "learning_state": "struggling"
+  },
+  {
+    "time_spent": 2092,
+    "access_count": 3,
+    "score": 18.89650150958214,
+    "engagement_score": 64.86666666666667,
+    "avg_time_per_access": 697.3333333333334,
+    "learning_state": "struggling"
+  },
+  {
+    "time_spent": 636,
+    "access_count": 2,
+    "score": 97.49447074283286,
+    "engagement_score": 30.6,
+    "avg_time_per_access": 318.0,
+    "learning_state": "proficient"
+  },
+  {
+    "time_spent": 700,
+    "access_count": 1,
+    "score": 77.74868042111446,
+    "engagement_score": 21.666666666666664,
+    "avg_time_per_access": 700.0,
+    "learning_state": "proficient"
+  },
+  {
+    "time_spent": 3153,
+    "access_count": 7,
+    "score": 20.808161725791486,
+    "engagement_score": 100,
+    "avg_time_per_access": 450.42857142857144,
+    "learning_state": "struggling"
+  },
+  {
+    "time_spent": 3202,
+    "access_count": 7,
+    "score": 8.771958186774842,
+    "engagement_score": 100,
+    "avg_time_per_access": 457.42857142857144,
+    "learning_state": "struggling"
+  }
+]

@@ -1,0 +1,24 @@
+cat > .gitignore << 'EOF'
+# Python
+backend/venv/
+backend/__pycache__/
+backend/**/__pycache__/
+backend/*.pyc
+backend/.env
+backend/ml/model.pkl
+backend/ml/label_encoder.pkl
+
+# Node
+frontend/node_modules/
+frontend/.next/
+frontend/.env.local
+frontend/.env
+
+# Database
+backend/*.db
+backend/*.sqlite
+
+# OS
+.DS_Store
+Thumbs.db
+EOF
